@@ -1,4 +1,4 @@
-# PS5 runtime scheduling expr/technical report on PS5 native port of BOTW (SavageWindRecomp)
+# PS5 runtime scheduling experiment/technical report on native port of botw (savagewindrecomp)
 A runtime-only scheduling experiment was performed on the PS5 build of SavageWindRecomp using:
 
 ``` ini
