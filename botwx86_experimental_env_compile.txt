@@ -1,4 +1,3 @@
-az@DESKTOP-D8ES18G:/mnt/c/Windows/system32$ nc 192.168.1.37 3232
 savagewind: [svcprof] t16savagewind:  0b:1573/8mssavagewind:  18:118/0mssavagewind:  1a:1795/399mssavagewind:  1b:8404/48mssavagewind:  1c:512/106mssavagewind:  1d:6843/16mssavagewind:  21:236/1mssavagewind:  34:1282/122mssavagewind:  35:321/3mssavagewind:
 savagewind: [svcprof] t18savagewind:  1a:181/5mssavagewind:  1b:652/4mssavagewind:  1c:472/1945mssavagewind:  1d:354/1mssavagewind:
 savagewind: [svcprof] t19savagewind:  17:117/0mssavagewind:  1a:296/7mssavagewind:  1b:416/2mssavagewind:  1c:471/1890mssavagewind:  1d:2/0mssavagewind:
