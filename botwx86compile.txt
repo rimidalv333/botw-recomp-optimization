@@ -1,5 +1,4 @@
-az@DESKTOP-D8ES18G:/mnt/z/SavageWindRecomp-v021$ nc 192.168.1.37 3232
-  1b:613/5mssavagewind:  1c:19/799mssavagewind:  1d:210/1mssavagewind:  34:209/371mssavagewind:  35:5/0mssavagewind:
+1b:613/5mssavagewind:  1c:19/799mssavagewind:  1d:210/1mssavagewind:  34:209/371mssavagewind:  35:5/0mssavagewind:
 savagewind: [svcprof] t22savagewind:  0b:22/10mssavagewind:  1a:378/362mssavagewind:  1b:490/4mssavagewind:  1c:13/573mssavagewind:  1d:154/0mssavagewind:  34:206/658mssavagewind:
 savagewind: [svcprof] t23savagewind:  0b:1401/8mssavagewind:  1a:776/95mssavagewind:  1b:822/5mssavagewind:  1c:1667/817mssavagewind:  1d:30/0mssavagewind:  34:669/107mssavagewind:  35:1139/11mssavagewind:
 savagewind: [svcprof] t24savagewind:  0b:1336/12mssavagewind:  1a:788/95mssavagewind:  1b:793/5mssavagewind:  1c:1564/908mssavagewind:  1d:8/0mssavagewind:  34:786/141mssavagewind:  35:848/7mssavagewind:
