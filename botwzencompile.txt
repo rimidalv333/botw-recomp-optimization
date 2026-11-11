@@ -1,4 +1,3 @@
-az@DESKTOP-D8ES18G:/mnt/z/SavageWindRecomp-v021$ nc 192.168.1.37 3232
 savagewind:  1c:195/1711mssavagewind:
 savagewind: [svcprof] t6savagewind:  0b:19/1921mssavagewind:  21:19/0mssavagewind:
 savagewind: [svcprof] t7savagewind:  1a:327/18mssavagewind:  1b:424/2mssavagewind:  1c:518/1956mssavagewind:  1d:127/0mssavagewind:
