@@ -1,0 +1,945 @@
+az@DESKTOP-D8ES18G:/mnt/c/Windows/system32$ nc 192.168.1.37 3232
+savagewind: [svcprof] t16savagewind:  0b:1573/8mssavagewind:  18:118/0mssavagewind:  1a:1795/399mssavagewind:  1b:8404/48mssavagewind:  1c:512/106mssavagewind:  1d:6843/16mssavagewind:  21:236/1mssavagewind:  34:1282/122mssavagewind:  35:321/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:181/5mssavagewind:  1b:652/4mssavagewind:  1c:472/1945mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:117/0mssavagewind:  1a:296/7mssavagewind:  1b:416/2mssavagewind:  1c:471/1890mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t21savagewind:  1a:1/0mssavagewind:  1b:8/0mssavagewind:  1c:2/3421mssavagewind:  1d:6/0mssavagewind:  34:5/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  1a:2/0mssavagewind:  1b:1/0mssavagewind:  1c:3/3425mssavagewind:  1d:1/0mssavagewind:  34:1/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1591/8mssavagewind:  1a:454/11mssavagewind:  1b:526/4mssavagewind:  1c:1881/849mssavagewind:  1d:58/0mssavagewind:  34:686/81mssavagewind:  35:1275/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1654/9mssavagewind:  1a:505/12mssavagewind:  1b:454/3mssavagewind:  1c:1764/880mssavagewind:  34:984/92mssavagewind:  35:832/6mssavagewind:
+savagewind: [svcprof] t27savagewind:  1c:1/7045mssavagewind:  21:1/3mssavagewind:
+savagewind: [svcprof] t28savagewind:  1b:1/0mssavagewind:  1c:125/1999mssavagewind:  1d:1/0mssavagewind:  35:6/0mssavagewind:
+savagewind: [svcprof] t29savagewind:  1b:1/0mssavagewind:  1c:2/7061mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4429.8 frame 6798 58.9 fps max 17ms internal=2560x1440 (622691 draws, 0 skipped, 20021 passes, 1208 dispatches, 742 flushes, wait 0ms, compile 0 (warm 0), fbcopy 0 (+62304 live), upload 146.6MB, sets 1248124 (1132673 shared), fbloop 30444 (30208 barriers), gmem waits 0 holds 0, uub 49084 (10429 same), gcopy 3022034 hit 423459 miss (138.1 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 13.4 (max 15.2), guest 54.1 (max 924.9): 101 11.7 (max 13.1) 14b 9.7 (max 74.2) 120 8.9 (max 10.2) 121 8.6 (max 9.7); gpu ms/frame 6.1 (max 6.8, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:31/2mssavagewind:  1b:207/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:156633/817mssavagewind:  1b:184/1mssavagewind:  1c:59/839mssavagewind:  1d:184/0mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9584/50mssavagewind:  1a:284/34mssavagewind:  1b:552/3mssavagewind:  1c:302/3802mssavagewind:  1d:403/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/522mssavagewind:  1b:77/1mssavagewind:  1c:400/3070mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:19/1902mssavagewind:  21:19/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:362/11mssavagewind:  1b:395/2mssavagewind:  1c:570/1961mssavagewind:  1d:134/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:269/17mssavagewind:  1b:708/4mssavagewind:  1c:520/1945mssavagewind:  1d:365/1mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:229/7mssavagewind:  1b:502/4mssavagewind:  1c:437/1933mssavagewind:  1d:235/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:397/13mssavagewind:  1b:360/2mssavagewind:  1c:482/1962mssavagewind:  1d:67/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:405/21mssavagewind:  1b:475/3mssavagewind:  1c:495/1950mssavagewind:  1d:87/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:144/5mssavagewind:  1b:648/5mssavagewind:  1c:352/1917mssavagewind:  1d:381/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:212/156mssavagewind:  1b:116/1mssavagewind:  1c:118/1777mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1680/9mssavagewind:  18:118/0mssavagewind:  1a:1960/384mssavagewind:  1b:8540/48mssavagewind:  1c:552/103mssavagewind:  1d:6840/16mssavagewind:  21:236/1mssavagewind:  34:1293/119mssavagewind:  35:312/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:144/4mssavagewind:  1b:616/4mssavagewind:  1c:472/1944mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:262/6mssavagewind:  1b:380/2mssavagewind:  1c:471/1891mssavagewind:
+savagewind: [svcprof] t21savagewind:  1a:1/0mssavagewind:  1b:1/0mssavagewind:  1c:2/693mssavagewind:  1d:1/0mssavagewind:  34:1/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  1b:1/0mssavagewind:  1c:2/693mssavagewind:  1d:1/0mssavagewind:  34:1/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1580/8mssavagewind:  1a:659/19mssavagewind:  1b:745/6mssavagewind:  1c:1888/828mssavagewind:  1d:59/0mssavagewind:  34:696/80mssavagewind:  35:1277/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1552/8mssavagewind:  1a:736/20mssavagewind:  1b:650/5mssavagewind:  1c:1770/861mssavagewind:  34:975/92mssavagewind:  35:855/6mssavagewind:
+savagewind: [svcprof] t28savagewind:  1c:120/1999mssavagewind:  35:2/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4431.8 frame 6916 58.9 fps max 18ms internal=2560x1440 (623672 draws, 0 skipped, 20186 passes, 1551 dispatches, 744 flushes, wait 0ms, compile 0 (warm 0), fbcopy 0 (+62304 live), upload 147.9MB, sets 1250429 (1134142 shared), fbloop 30444 (30208 barriers), gmem waits 0 holds 0, uub 49104 (10442 same), gcopy 3027731 hit 424871 miss (138.9 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 13.5 (max 15.5), guest 54.4 (max 920.9): 101 11.8 (max 13.4) 14b 9.5 (max 20.3) 120 9.1 (max 10.3) 121 8.7 (max 9.9); gpu ms/frame 6.2 (max 6.8, 118 frames)
+savagewind: [audren-sdk] 24000 frames: render 330 us (max 544), mutex wait max 160 us, 0 underruns, peak 0.028; 2000 with the sink, voice sources 13 (max 14), command ids 0x4218adc0, gain 1.00
+savagewind: [audio] AudioOut 10.0 s: 1876 periods, 0 underruns (0 frames short), 0 errors (last 0), 0 frames dropped, 1 streams (1 resumed, lowest gain 1.00), queue peak 2512 frames; in 2001 puts, 480240 frames, peak -31.0 dBFS; ring read peak -31.0 dBFS; level peak -31.0 dBFS rms -44.2 dBFS
+savagewind: [ipc] STUB prepo:u cmd 10105 (in 40 bytes, x1 a1 b0 c0) -> ok
+savagewind: [ipc] STUB prepo:u cmd 10107 (in 48 bytes, x1 a1 b0 c0) -> ok
+savagewind: [perf] last 60 s: 3520 frames, 99.5% on time, frame ms p50 17.00 p95 17.25 p99 17.25, 9 hitches; per frame: render thread cpu 11.76 ms, guest threads cpu 50.68 ms, gpu 5.52 ms
+savagewind: [svcprof] t0savagewind:  1a:33/2mssavagewind:  1b:216/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:153732/817mssavagewind:  1a:1/0mssavagewind:  1b:184/1mssavagewind:  1c:57/789mssavagewind:  1d:184/0mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9676/51mssavagewind:  1a:295/37mssavagewind:  1b:552/3mssavagewind:  1c:302/3806mssavagewind:  1d:401/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/534mssavagewind:  1b:79/1mssavagewind:  1c:402/3080mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:364/11mssavagewind:  1b:356/2mssavagewind:  1c:570/1945mssavagewind:  1d:96/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:307/18mssavagewind:  1b:627/4mssavagewind:  1c:546/1929mssavagewind:  1d:270/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:189/7mssavagewind:  1b:592/4mssavagewind:  1c:404/1911mssavagewind:  1d:328/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:425/14mssavagewind:  1b:368/2mssavagewind:  1c:486/1979mssavagewind:  1d:77/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:408/22mssavagewind:  1b:470/3mssavagewind:  1c:520/1961mssavagewind:  1d:79/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:141/5mssavagewind:  1b:674/6mssavagewind:  1c:355/1931mssavagewind:  1d:405/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:202/157mssavagewind:  1b:96/1mssavagewind:  1c:118/1776mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1572/8mssavagewind:  18:118/0mssavagewind:  1a:1866/349mssavagewind:  1b:8447/49mssavagewind:  1c:515/109mssavagewind:  1d:6843/16mssavagewind:  21:237/1mssavagewind:  34:1270/121mssavagewind:  35:322/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:153/4mssavagewind:  1b:607/4mssavagewind:  1c:470/1946mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:253/6mssavagewind:  1b:388/2mssavagewind:  1c:472/1892mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1615/9mssavagewind:  1a:575/15mssavagewind:  1b:653/5mssavagewind:  1c:1887/806mssavagewind:  1d:57/0mssavagewind:  34:708/83mssavagewind:  35:1241/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1625/9mssavagewind:  1a:628/15mssavagewind:  1b:577/5mssavagewind:  1c:1769/845mssavagewind:  1d:3/0mssavagewind:  34:974/99mssavagewind:  35:871/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:83/66mssavagewind:  1a:3/0mssavagewind:  1b:84/0mssavagewind:  1c:6/24680mssavagewind:  1d:81/0mssavagewind:  34:80/1mssavagewind:
+savagewind: [svcprof] t28savagewind:  1b:1/0mssavagewind:  1c:199/1998mssavagewind:  1d:1/0mssavagewind:  35:80/0mssavagewind:
+savagewind: [svcprof] t29savagewind:  1c:1/4784mssavagewind:
+savagewind: [svcprof] t30savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4433.9 frame 7034 58.9 fps max 17ms internal=2560x1440 (624656 draws, 0 skipped, 20516 passes, 1310 dispatches, 787 flushes, wait 0ms, compile 0 (warm 0), fbcopy 0 (+62011 live), upload 155.5MB, sets 1252156 (1134854 shared), fbloop 30142 (29906 barriers), gmem waits 0 holds 0, uub 50002 (10382 same), gcopy 3018703 hit 429298 miss (141.0 MB)) | frame 17.0 ms (max 17.6), 100.0% on time, 0 hitches; cpu ms/frame: render 13.6 (max 15.5), guest 55.7 (max 942.4): 101 12.1 (max 13.9) 14b 9.9 (max 67.8) 120 9.2 (max 10.8) 121 8.8 (max 10.1); gpu ms/frame 6.2 (max 6.8, 119 frames)
+savagewind: [svcprof] t0savagewind:  1a:39/3mssavagewind:  1b:217/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:143284/769mssavagewind:  1a:12/2mssavagewind:  1b:225/1mssavagewind:  1c:55/735mssavagewind:  1d:214/1mssavagewind:  34:3/5mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9546/53mssavagewind:  1a:305/53mssavagewind:  1b:568/4mssavagewind:  1c:298/3772mssavagewind:  1d:404/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/531mssavagewind:  1b:85/1mssavagewind:  1c:400/3048mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:373/12mssavagewind:  1b:348/2mssavagewind:  1c:558/1969mssavagewind:  1d:98/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:317/20mssavagewind:  1b:605/4mssavagewind:  1c:543/1943mssavagewind:  1d:240/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:180/7mssavagewind:  1b:609/4mssavagewind:  1c:399/1927mssavagewind:  1d:346/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:382/13mssavagewind:  1b:328/2mssavagewind:  1c:485/1979mssavagewind:  1d:62/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:364/21mssavagewind:  1b:445/4mssavagewind:  1c:591/1948mssavagewind:  1d:73/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:137/5mssavagewind:  1b:741/6mssavagewind:  1c:354/1903mssavagewind:  1d:482/2mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:184/163mssavagewind:  1b:58/0mssavagewind:  1c:117/1753mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1650/9mssavagewind:  18:117/0mssavagewind:  1a:1840/247mssavagewind:  1b:8489/53mssavagewind:  1c:505/49981mssavagewind:  1d:6893/21mssavagewind:  21:235/1mssavagewind:  34:1393/145mssavagewind:  35:309/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:127/5mssavagewind:  1b:581/5mssavagewind:  1c:470/1960mssavagewind:  1d:349/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:241/7mssavagewind:  1b:352/3mssavagewind:  1c:470/1876mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:21/0mssavagewind:  1a:141/9mssavagewind:  1b:261/2mssavagewind:  1c:22/5330mssavagewind:  1d:139/0mssavagewind:  34:130/12mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:26/0mssavagewind:  1a:126/10mssavagewind:  1b:294/2mssavagewind:  1c:27/5298mssavagewind:  1d:189/0mssavagewind:  34:202/38mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1599/9mssavagewind:  1a:650/18mssavagewind:  1b:748/6mssavagewind:  1c:1887/759mssavagewind:  1d:80/0mssavagewind:  34:667/96mssavagewind:  35:1314/12mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1572/9mssavagewind:  1a:691/18mssavagewind:  1b:647/6mssavagewind:  1c:1769/800mssavagewind:  1d:8/0mssavagewind:  34:996/116mssavagewind:  35:858/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:879/601mssavagewind:  1a:198/5mssavagewind:  1b:671/4mssavagewind:  1c:41/8405mssavagewind:  1d:530/1mssavagewind:  21:30/43mssavagewind:  34:509/78mssavagewind:  35:23/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:460/12mssavagewind:  1b:618/5mssavagewind:  1c:1009/1938mssavagewind:  1d:167/0mssavagewind:  35:742/6mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:344/2mssavagewind:  1a:236/7mssavagewind:  1b:412/3mssavagewind:  1c:228/2344mssavagewind:  1d:127/0mssavagewind:  21:8/9mssavagewind:  35:49/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:4/0mssavagewind:  1a:3/0mssavagewind:  1b:4/0mssavagewind:  1c:181/1980mssavagewind:  35:68/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:117/1983mssavagewind:
+savagewind: [vk] t=4435.9 frame 7152 58.9 fps max 20ms internal=2560x1440 (626314 draws, 0 skipped, 22180 passes, 1374 dispatches, 851 flushes, wait 0ms, compile 0 (warm 4), fbcopy 0 (+61949 live), upload 189.6MB, sets 1255536 (1137189 shared), fbloop 29107 (28871 barriers), gmem waits 0 holds 0, uub 56794 (12756 same), gcopy 3008181 hit 433614 miss (144.7 MB)) | frame 17.0 ms (max 19.9), 93.2% on time, 0 hitches; cpu ms/frame: render 14.1 (max 17.4), guest 60.3 (max 916.3): 101 12.3 (max 15.4) 14b 10.3 (max 47.6) 120 9.5 (max 13.4) 121 9.0 (max 11.3); gpu ms/frame 6.1 (max 6.7, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:38/3mssavagewind:  1b:219/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:148612/788mssavagewind:  1a:5/0mssavagewind:  1b:196/1mssavagewind:  1c:57/779mssavagewind:  1d:191/0mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9455/52mssavagewind:  1a:310/50mssavagewind:  1b:572/4mssavagewind:  1c:299/3781mssavagewind:  1d:409/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/530mssavagewind:  1b:90/1mssavagewind:  1c:401/3058mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:482/14mssavagewind:  1b:415/2mssavagewind:  1c:457/1967mssavagewind:  1d:92/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:437/22mssavagewind:  1b:532/4mssavagewind:  1c:479/1952mssavagewind:  1d:79/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:264/8mssavagewind:  1b:634/5mssavagewind:  1c:382/1947mssavagewind:  1d:287/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:571/20mssavagewind:  1b:474/3mssavagewind:  1c:490/1968mssavagewind:  1d:57/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:593/29mssavagewind:  1b:636/5mssavagewind:  1c:561/1947mssavagewind:  1d:65/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:239/9mssavagewind:  1b:823/6mssavagewind:  1c:355/1895mssavagewind:  1d:470/2mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:192/138mssavagewind:  1b:35/0mssavagewind:  1c:118/1799mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:118/2000mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1574/8mssavagewind:  18:118/0mssavagewind:  1a:2179/303mssavagewind:  1b:8863/54mssavagewind:  1c:493/94mssavagewind:  1d:6871/18mssavagewind:  21:236/1mssavagewind:  34:1353/155mssavagewind:  35:305/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:100/4mssavagewind:  1b:559/4mssavagewind:  1c:472/1968mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:212/6mssavagewind:  1b:339/2mssavagewind:  1c:472/1892mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:3/0mssavagewind:  1a:165/6mssavagewind:  1b:188/1mssavagewind:  1c:24/1965mssavagewind:  1d:39/0mssavagewind:  34:21/2mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:8/0mssavagewind:  1a:113/5mssavagewind:  1b:116/1mssavagewind:  1c:28/1977mssavagewind:  1d:22/0mssavagewind:  34:24/1mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1722/9mssavagewind:  1a:915/26mssavagewind:  1b:1018/8mssavagewind:  1c:1887/779mssavagewind:  1d:97/0mssavagewind:  34:705/97mssavagewind:  35:1285/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1522/8mssavagewind:  1a:762/20mssavagewind:  1b:728/6mssavagewind:  1c:1769/846mssavagewind:  1d:12/0mssavagewind:  34:934/106mssavagewind:  35:879/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:829/601mssavagewind:  1a:210/11mssavagewind:  1b:547/3mssavagewind:  1c:27/3348mssavagewind:  1d:376/0mssavagewind:  21:4/12mssavagewind:  34:367/10mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:621/16mssavagewind:  1b:671/5mssavagewind:  1c:559/1961mssavagewind:  1d:115/0mssavagewind:  35:404/2mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:354/2mssavagewind:  1a:174/4mssavagewind:  1b:270/2mssavagewind:  1c:118/2092mssavagewind:  1d:12/0mssavagewind:  21:1/0mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:11/0mssavagewind:  1a:8/0mssavagewind:  1b:11/0mssavagewind:  1c:129/1999mssavagewind:  35:6/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4437.9 frame 7270 58.9 fps max 19ms internal=2560x1440 (603693 draws, 0 skipped, 22445 passes, 2017 dispatches, 853 flushes, wait 0ms, compile 0 (warm 16), fbcopy 0 (+59061 live), upload 177.4MB, sets 1210937 (1094991 shared), fbloop 28059 (27823 barriers), gmem waits 0 holds 0, uub 55158 (12300 same), gcopy 2908325 hit 432432 miss (141.5 MB), build waits 1) | frame 17.0 ms (max 19.1), 98.3% on time, 0 hitches; cpu ms/frame: render 13.8 (max 15.8), guest 57.4 (max 914.1): 101 12.3 (max 18.2) 14b 10.0 (max 67.5) 120 9.3 (max 12.6) 121 8.7 (max 11.9); gpu ms/frame 6.2 (max 6.9, 118 frames)
+savagewind: radv/ps5 submissions: window count=4068 kwords=119858 claim_ms=9.7 copy_ms=44.2 flush_ms=14.6 agc_ms=225.1 suspend_ms=980.7
+savagewind: [svcprof] t0savagewind:  1a:44/3mssavagewind:  1b:222/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:143300/769mssavagewind:  1a:10/0mssavagewind:  1b:241/2mssavagewind:  1c:55/733mssavagewind:  1d:228/1mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9163/50mssavagewind:  1a:312/66mssavagewind:  1b:584/4mssavagewind:  1c:296/3764mssavagewind:  1d:412/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/545mssavagewind:  1b:86/1mssavagewind:  1c:401/3059mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:618/21mssavagewind:  1b:549/4mssavagewind:  1c:445/1950mssavagewind:  1d:119/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:511/28mssavagewind:  1b:672/6mssavagewind:  1c:456/1940mssavagewind:  1d:116/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:398/15mssavagewind:  1b:616/6mssavagewind:  1c:412/1943mssavagewind:  1d:195/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:450/17mssavagewind:  1b:393/3mssavagewind:  1c:487/1974mssavagewind:  1d:70/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:461/26mssavagewind:  1b:498/4mssavagewind:  1c:579/1954mssavagewind:  1d:67/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:172/7mssavagewind:  1b:777/6mssavagewind:  1c:356/1912mssavagewind:  1d:479/2mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:151/150mssavagewind:  1b:27/0mssavagewind:  1c:118/1788mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:3/0mssavagewind:  1c:118/1999mssavagewind:  1d:3/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1600/9mssavagewind:  18:118/0mssavagewind:  1a:2106/290mssavagewind:  1b:8783/55mssavagewind:  1c:510/4131mssavagewind:  1d:6906/19mssavagewind:  21:236/1mssavagewind:  34:1355/139mssavagewind:  35:323/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:118/4mssavagewind:  1b:574/5mssavagewind:  1c:472/1972mssavagewind:  1d:353/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:237/6mssavagewind:  1b:354/2mssavagewind:  1c:472/1888mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:29/0mssavagewind:  1a:150/16mssavagewind:  1b:298/2mssavagewind:  1c:16/1776mssavagewind:  1d:171/0mssavagewind:  34:184/57mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:36/0mssavagewind:  1a:154/8mssavagewind:  1b:471/3mssavagewind:  1c:21/1787mssavagewind:  1d:341/1mssavagewind:  34:352/40mssavagewind:  35:4/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1692/9mssavagewind:  1a:639/17mssavagewind:  1b:761/6mssavagewind:  1c:1887/771mssavagewind:  1d:61/0mssavagewind:  34:694/90mssavagewind:  35:1286/12mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1522/8mssavagewind:  1a:740/19mssavagewind:  1b:688/5mssavagewind:  1c:1769/817mssavagewind:  1d:18/0mssavagewind:  34:992/111mssavagewind:  35:854/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:1146/504mssavagewind:  1a:276/9mssavagewind:  1b:768/5mssavagewind:  1c:39/3311mssavagewind:  1d:566/1mssavagewind:  21:17/24mssavagewind:  34:531/17mssavagewind:  35:16/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:557/15mssavagewind:  1b:709/7mssavagewind:  1c:1199/1943mssavagewind:  1d:195/0mssavagewind:  35:986/7mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:509/3mssavagewind:  1a:366/13mssavagewind:  1b:540/6mssavagewind:  1c:257/1929mssavagewind:  1d:107/0mssavagewind:  35:45/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:108/0mssavagewind:  1a:90/4mssavagewind:  1b:114/2mssavagewind:  1c:201/1989mssavagewind:  35:37/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4439.9 frame 7388 58.9 fps max 19ms internal=2560x1440 (618755 draws, 0 skipped, 22435 passes, 2458 dispatches, 869 flushes, wait 0ms, compile 0 (warm 11), fbcopy 0 (+56560 live), upload 190.3MB, sets 1241502 (1122443 shared), fbloop 26656 (26420 barriers), gmem waits 0 holds 0, uub 56087 (12547 same), gcopy 2994369 hit 445329 miss (146.1 MB)) | frame 17.0 ms (max 19.4), 91.5% on time, 0 hitches; cpu ms/frame: render 14.1 (max 17.3), guest 60.8 (max 938.0): 101 12.6 (max 14.9) 14b 10.4 (max 67.7) 120 9.4 (max 13.3) 121 8.9 (max 12.3); gpu ms/frame 6.3 (max 6.8, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:43/3mssavagewind:  1b:222/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:144746/763mssavagewind:  1a:4/1mssavagewind:  1b:197/1mssavagewind:  1c:55/759mssavagewind:  1d:191/0mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9501/51mssavagewind:  1a:307/62mssavagewind:  1b:572/3mssavagewind:  1c:297/3774mssavagewind:  1d:409/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/535mssavagewind:  1b:85/1mssavagewind:  1c:402/3040mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:402/12mssavagewind:  1b:382/2mssavagewind:  1c:526/1974mssavagewind:  1d:111/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:361/21mssavagewind:  1b:526/4mssavagewind:  1c:567/1951mssavagewind:  1d:116/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:215/8mssavagewind:  1b:686/5mssavagewind:  1c:382/1916mssavagewind:  1d:410/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:405/12mssavagewind:  1b:358/2mssavagewind:  1c:486/1980mssavagewind:  1d:75/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:402/21mssavagewind:  1b:468/3mssavagewind:  1c:587/1957mssavagewind:  1d:62/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:152/5mssavagewind:  1b:746/5mssavagewind:  1c:354/1917mssavagewind:  1d:476/2mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:145/173mssavagewind:  1b:27/0mssavagewind:  1c:118/1764mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/1999mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1551/8mssavagewind:  18:118/0mssavagewind:  1a:1751/223mssavagewind:  1b:8370/49mssavagewind:  1c:526/1125mssavagewind:  1d:6841/17mssavagewind:  21:236/1mssavagewind:  34:1330/145mssavagewind:  35:363/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:38/1mssavagewind:  1b:480/4mssavagewind:  1c:395/2075mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:152/3mssavagewind:  1b:272/1mssavagewind:  1c:472/1864mssavagewind:
+savagewind: [svcprof] t21savagewind:  1a:24/11mssavagewind:  1b:204/1mssavagewind:  1c:7/1871mssavagewind:  1d:188/0mssavagewind:  34:191/22mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:1/0mssavagewind:  1a:14/0mssavagewind:  1b:16/0mssavagewind:  1c:9/1931mssavagewind:  1d:2/0mssavagewind:  34:3/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1656/9mssavagewind:  1a:608/13mssavagewind:  1b:702/6mssavagewind:  1c:1888/782mssavagewind:  1d:56/0mssavagewind:  34:645/81mssavagewind:  35:1327/12mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1588/8mssavagewind:  1a:674/15mssavagewind:  1b:611/4mssavagewind:  1c:1770/808mssavagewind:  1d:8/0mssavagewind:  34:1060/104mssavagewind:  35:752/6mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:640/434mssavagewind:  1a:122/3mssavagewind:  1b:439/2mssavagewind:  1c:29/3500mssavagewind:  1d:353/0mssavagewind:  21:8/21mssavagewind:  34:337/9mssavagewind:  35:6/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:230/5mssavagewind:  1b:289/2mssavagewind:  1c:662/1976mssavagewind:  1d:75/0mssavagewind:  35:511/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:241/1mssavagewind:  1a:115/3mssavagewind:  1b:186/1mssavagewind:  1c:92/1984mssavagewind:  1d:21/0mssavagewind:  35:13/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  1c:144/1999mssavagewind:  35:26/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4441.9 frame 7506 58.9 fps max 19ms internal=2560x1440 (630348 draws, 0 skipped, 22589 passes, 1772 dispatches, 874 flushes, wait 0ms, compile 0 (warm 8), fbcopy 0 (+59171 live), upload 190.2MB, sets 1264002 (1143741 shared), fbloop 26636 (26400 barriers), gmem waits 0 holds 0, uub 53961 (11813 same), gcopy 3068267 hit 448731 miss (149.9 MB)) | frame 17.0 ms (max 18.8), 93.2% on time, 0 hitches; cpu ms/frame: render 14.2 (max 16.3), guest 58.3 (max 930.6): 101 12.6 (max 17.6) 14b 10.0 (max 67.4) 120 9.4 (max 11.5) 121 9.0 (max 12.6); gpu ms/frame 6.1 (max 6.8, 118 frames)
+savagewind: [audren-sdk] 26000 frames: render 435 us (max 777), mutex wait max 195 us, 0 underruns, peak 0.198; 2000 with the sink, voice sources 21 (max 28), command ids 0x4218adc0, gain 1.00
+savagewind: [audio] AudioOut 10.0 s: 1876 periods, 0 underruns (0 frames short), 0 errors (last 0), 0 frames dropped, 1 streams (1 resumed, lowest gain 1.00), queue peak 2512 frames; in 2000 puts, 480000 frames, peak -14.1 dBFS; ring read peak -14.1 dBFS; level peak -14.1 dBFS rms -41.3 dBFS
+savagewind: [svcprof] t0savagewind:  1a:44/3mssavagewind:  1b:221/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:148904/786mssavagewind:  1a:5/0mssavagewind:  1b:194/1mssavagewind:  1c:57/784mssavagewind:  1d:191/0mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9676/52mssavagewind:  1a:302/66mssavagewind:  1b:571/3mssavagewind:  1c:296/3766mssavagewind:  1d:400/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/531mssavagewind:  1b:77/1mssavagewind:  1c:401/3054mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:350/10mssavagewind:  1b:299/1mssavagewind:  1c:491/1983mssavagewind:  1d:63/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:335/19mssavagewind:  1b:408/3mssavagewind:  1c:567/1960mssavagewind:  1d:68/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:126/4mssavagewind:  1b:709/5mssavagewind:  1c:355/1929mssavagewind:  1d:469/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:406/13mssavagewind:  1b:347/2mssavagewind:  1c:490/1980mssavagewind:  1d:67/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:404/22mssavagewind:  1b:463/4mssavagewind:  1c:585/1954mssavagewind:  1d:70/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:145/5mssavagewind:  1b:750/5mssavagewind:  1c:354/1918mssavagewind:  1d:485/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:165/151mssavagewind:  1b:24/0mssavagewind:  1c:118/1787mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:2/0mssavagewind:  1c:118/2000mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1569/8mssavagewind:  18:118/0mssavagewind:  1a:1785/285mssavagewind:  1b:8438/50mssavagewind:  1c:506/119mssavagewind:  1d:6854/18mssavagewind:  21:236/1mssavagewind:  34:1259/130mssavagewind:  35:320/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:191/7mssavagewind:  1b:658/5mssavagewind:  1c:472/1949mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:313/9mssavagewind:  1b:429/3mssavagewind:  1c:472/1884mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:4/0mssavagewind:  1a:170/7mssavagewind:  1b:192/1mssavagewind:  1c:22/2115mssavagewind:  1d:41/0mssavagewind:  34:10/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:3/0mssavagewind:  1a:116/5mssavagewind:  1b:110/1mssavagewind:  1c:26/2138mssavagewind:  1d:13/0mssavagewind:  34:8/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1653/9mssavagewind:  1a:709/20mssavagewind:  1b:805/6mssavagewind:  1c:1884/762mssavagewind:  1d:98/0mssavagewind:  34:653/89mssavagewind:  35:1289/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1569/8mssavagewind:  1a:719/20mssavagewind:  1b:687/5mssavagewind:  1c:1766/798mssavagewind:  1d:6/0mssavagewind:  34:1018/117mssavagewind:  35:784/6mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:659/500mssavagewind:  1a:118/3mssavagewind:  1b:433/2mssavagewind:  1c:22/3582mssavagewind:  1d:338/0mssavagewind:  21:2/10mssavagewind:  34:325/8mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:377/9mssavagewind:  1b:418/3mssavagewind:  1c:520/1981mssavagewind:  1d:65/0mssavagewind:  35:343/1mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:298/1mssavagewind:  1a:173/5mssavagewind:  1b:240/2mssavagewind:  1c:66/2039mssavagewind:  1d:15/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:10/0mssavagewind:  1a:19/1mssavagewind:  1b:22/0mssavagewind:  1c:129/1998mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4443.9 frame 7624 58.9 fps max 18ms internal=2560x1440 (622756 draws, 0 skipped, 22318 passes, 1983 dispatches, 875 flushes, wait 0ms, compile 0 (warm 5), fbcopy 0 (+49791 live), upload 178.8MB, sets 1249029 (1128740 shared), fbloop 21966 (21730 barriers), gmem waits 0 holds 0, uub 53997 (11630 same), gcopy 3010877 hit 434197 miss (144.4 MB)) | frame 17.0 ms (max 17.7), 100.0% on time, 0 hitches; cpu ms/frame: render 13.9 (max 15.7), guest 57.9 (max 944.5): 101 12.4 (max 14.8) 14b 10.0 (max 50.7) 120 9.5 (max 12.5) 121 9.0 (max 10.2); gpu ms/frame 6.0 (max 6.6, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:49/4mssavagewind:  1b:224/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:146251/778mssavagewind:  1a:14/0mssavagewind:  1b:207/1mssavagewind:  1c:57/763mssavagewind:  1d:201/0mssavagewind:  34:2/2mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9386/52mssavagewind:  1a:292/79mssavagewind:  1b:568/4mssavagewind:  1c:290/3728mssavagewind:  1d:401/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/538mssavagewind:  1b:67/1mssavagewind:  1c:400/3053mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:357/11mssavagewind:  1b:296/1mssavagewind:  1c:488/1984mssavagewind:  1d:64/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:334/19mssavagewind:  1b:436/3mssavagewind:  1c:555/1965mssavagewind:  1d:61/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:147/4mssavagewind:  1b:703/5mssavagewind:  1c:350/1928mssavagewind:  1d:463/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:428/14mssavagewind:  1b:363/2mssavagewind:  1c:477/1963mssavagewind:  1d:63/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:441/23mssavagewind:  1b:511/4mssavagewind:  1c:555/1958mssavagewind:  1d:70/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:189/7mssavagewind:  1b:727/5mssavagewind:  1c:348/1928mssavagewind:  1d:447/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:164/159mssavagewind:  1b:38/0mssavagewind:  1c:116/1779mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:3/0mssavagewind:  1c:115/1985mssavagewind:  1d:3/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1660/9mssavagewind:  18:116/0mssavagewind:  1a:1830/155mssavagewind:  1b:8392/49mssavagewind:  1c:490/4185mssavagewind:  1d:6732/18mssavagewind:  21:232/1mssavagewind:  34:1250/120mssavagewind:  35:312/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:108/4mssavagewind:  1b:505/4mssavagewind:  1c:464/2376mssavagewind:  1d:346/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:115/0mssavagewind:  1a:209/6mssavagewind:  1b:332/2mssavagewind:  1c:463/1891mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:29/0mssavagewind:  1a:320/19mssavagewind:  1b:382/3mssavagewind:  1c:38/1895mssavagewind:  1d:128/0mssavagewind:  34:109/18mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:37/0mssavagewind:  1a:180/8mssavagewind:  1b:269/2mssavagewind:  1c:43/1920mssavagewind:  1d:111/0mssavagewind:  34:109/19mssavagewind:  35:2/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1648/9mssavagewind:  1a:749/19mssavagewind:  1b:940/8mssavagewind:  1c:1847/762mssavagewind:  1d:116/0mssavagewind:  34:662/91mssavagewind:  35:1257/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1429/7mssavagewind:  1a:809/21mssavagewind:  1b:741/6mssavagewind:  1c:1732/799mssavagewind:  1d:10/0mssavagewind:  34:972/111mssavagewind:  35:780/6mssavagewind:
+savagewind: [svcprof] t26savagewind:  1c:1/60780mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:1078/602mssavagewind:  1a:233/7mssavagewind:  1b:776/5mssavagewind:  1c:37/3236mssavagewind:  1d:595/1mssavagewind:  21:20/44mssavagewind:  34:589/45mssavagewind:  35:14/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:629/16mssavagewind:  1b:763/6mssavagewind:  1c:957/1948mssavagewind:  1d:143/0mssavagewind:  35:751/5mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:457/2mssavagewind:  1a:238/6mssavagewind:  1b:386/3mssavagewind:  1c:168/1963mssavagewind:  1d:63/0mssavagewind:  21:5/4mssavagewind:  35:18/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:1/0mssavagewind:  1a:5/0mssavagewind:  1b:6/0mssavagewind:  1c:145/2000mssavagewind:  35:27/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:116/2002mssavagewind:
+savagewind: [vk] t=4445.9 frame 7740 57.6 fps max 21ms internal=2560x1440 (662448 draws, 0 skipped, 22391 passes, 2111 dispatches, 861 flushes, wait 0ms, compile 0 (warm 14), fbcopy 0 (+58776 live), upload 209.4MB, sets 1328515 (1209883 shared), fbloop 26207 (25975 barriers), gmem waits 0 holds 0, uub 56680 (12631 same), gcopy 3317597 hit 451346 miss (150.4 MB)) | frame 17.4 ms (max 20.5), 76.7% on time, 0 hitches; cpu ms/frame: render 15.1 (max 19.7), guest 62.9 (max 927.9): 101 12.7 (max 16.1) 14b 10.6 (max 58.5) 120 9.7 (max 14.6) 121 9.2 (max 13.8); gpu ms/frame 6.7 (max 7.7, 116 frames)
+savagewind: [vk] GPU overlap: a one-off readback in submission 44257, waited for 44257 of 44257
+savagewind: [vk] GPU overlap: a one-off readback in submission 44264, waited for 44264 of 44264
+savagewind: [svcprof] t0savagewind:  1a:47/4mssavagewind:  1b:223/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:141049/761mssavagewind:  1a:34/5mssavagewind:  1b:249/2mssavagewind:  1c:55/723mssavagewind:  1d:229/1mssavagewind:  34:6/2mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9405/52mssavagewind:  1a:305/72mssavagewind:  1b:582/4mssavagewind:  1c:295/3758mssavagewind:  1d:413/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/542mssavagewind:  1a:1/0mssavagewind:  1b:82/1mssavagewind:  1c:402/3063mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:358/12mssavagewind:  1b:307/1mssavagewind:  1c:478/1969mssavagewind:  1d:57/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:349/20mssavagewind:  1b:413/3mssavagewind:  1c:579/1942mssavagewind:  1d:64/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:134/5mssavagewind:  1b:728/5mssavagewind:  1c:353/1911mssavagewind:  1d:474/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:426/14mssavagewind:  1b:351/2mssavagewind:  1c:484/1983mssavagewind:  1d:69/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:404/23mssavagewind:  1b:485/4mssavagewind:  1c:475/1949mssavagewind:  1d:76/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:170/7mssavagewind:  1b:639/5mssavagewind:  1c:353/1925mssavagewind:  1d:357/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:170/163mssavagewind:  1b:20/0mssavagewind:  1c:117/1760mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/2004mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1752/9mssavagewind:  18:117/0mssavagewind:  1a:1723/177mssavagewind:  1b:8610/52mssavagewind:  1c:497/2040mssavagewind:  1d:7053/20mssavagewind:  21:236/1mssavagewind:  34:1524/166mssavagewind:  35:328/3mssavagewind:
+savagewind: [svcprof] t17savagewind:  1a:2/20mssavagewind:  1b:1/0mssavagewind:  1c:4/61961mssavagewind:  21:31/59mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:139/6mssavagewind:  1b:542/5mssavagewind:  1c:468/2568mssavagewind:  1d:350/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:248/7mssavagewind:  1b:371/3mssavagewind:  1c:469/1883mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:27/0mssavagewind:  1a:109/12mssavagewind:  1b:219/1mssavagewind:  1c:24/1873mssavagewind:  1d:130/0mssavagewind:  34:112/55mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:12/0mssavagewind:  1a:79/5mssavagewind:  1b:103/0mssavagewind:  1c:28/1912mssavagewind:  1d:43/0mssavagewind:  34:51/46mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1692/9mssavagewind:  1a:622/16mssavagewind:  1b:778/7mssavagewind:  1c:1885/704mssavagewind:  1d:107/0mssavagewind:  34:723/94mssavagewind:  35:1257/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1409/7mssavagewind:  1a:687/17mssavagewind:  1b:595/5mssavagewind:  1c:1768/748mssavagewind:  1d:7/0mssavagewind:  34:963/114mssavagewind:  35:846/7mssavagewind:
+savagewind: [svcprof] t26savagewind:  1c:17/113mssavagewind:  35:11/0mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:770/468mssavagewind:  1a:132/4mssavagewind:  1b:465/3mssavagewind:  1c:33/3350mssavagewind:  1d:360/0mssavagewind:  21:33/58mssavagewind:  34:338/23mssavagewind:  35:13/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:427/11mssavagewind:  1b:476/4mssavagewind:  1c:669/1949mssavagewind:  1d:92/0mssavagewind:  35:455/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:382/2mssavagewind:  1a:189/6mssavagewind:  1b:301/3mssavagewind:  1c:123/1965mssavagewind:  1d:22/0mssavagewind:  35:9/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:15/0mssavagewind:  1a:18/0mssavagewind:  1b:24/0mssavagewind:  1c:330/1981mssavagewind:  35:221/1mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:117/1988mssavagewind:
+savagewind: [vk] t=4447.9 frame 7858 58.8 fps max 20ms internal=2560x1440 (662432 draws, 0 skipped, 22634 passes, 2706 dispatches, 775 flushes, wait 7ms, compile 0 (warm 13), fbcopy 0 (+82174 live), upload 196.3MB, sets 1329104 (1213568 shared), fbloop 34820 (34584 barriers), gmem waits 0 holds 0, uub 55237 (12159 same), gcopy 3334978 hit 475465 miss (159.0 MB)) | frame 17.0 ms (max 20.1), 87.3% on time, 0 hitches; cpu ms/frame: render 15.1 (max 18.5), guest 59.9 (max 938.0): 101 12.9 (max 17.3) 14b 10.4 (max 52.5) 120 9.9 (max 13.7) 121 9.4 (max 13.2); gpu ms/frame 7.3 (max 7.9, 118 frames)
+savagewind: radv/ps5 submissions: window count=4216 kwords=125660 claim_ms=9.8 copy_ms=46.8 flush_ms=15.3 agc_ms=556.0 suspend_ms=1557.4
+savagewind: [place] swr:1 x=-1033.99 y=250.60 z=1813.43 yaw=65.3 pitch=-9.6 hour=7.38
+savagewind: [svcprof] t0savagewind:  1a:47/4mssavagewind:  1b:223/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:148502/787mssavagewind:  1a:3/0mssavagewind:  1b:194/1mssavagewind:  1c:56/773mssavagewind:  1d:190/0mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9072/49mssavagewind:  1a:299/74mssavagewind:  1b:576/3mssavagewind:  1c:291/3750mssavagewind:  1d:411/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:119376/636mssavagewind:  1a:1/0mssavagewind:  1b:75/1mssavagewind:  1c:401/3697mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:353/10mssavagewind:  1b:306/1mssavagewind:  1c:464/1980mssavagewind:  1d:65/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:348/18mssavagewind:  1b:422/3mssavagewind:  1c:522/1966mssavagewind:  1d:71/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:136/4mssavagewind:  1b:656/4mssavagewind:  1c:348/1934mssavagewind:  1d:406/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:424/15mssavagewind:  1b:361/2mssavagewind:  1c:470/1974mssavagewind:  1d:60/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:422/22mssavagewind:  1b:510/4mssavagewind:  1c:463/1958mssavagewind:  1d:71/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:199/8mssavagewind:  1b:639/5mssavagewind:  1c:346/1929mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:162/143mssavagewind:  1b:31/0mssavagewind:  1c:115/1789mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:115/1996mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1653/9mssavagewind:  18:115/0mssavagewind:  1a:1776/109mssavagewind:  1b:8353/49mssavagewind:  1c:493/2164mssavagewind:  1d:6689/18mssavagewind:  21:230/1mssavagewind:  34:1233/111mssavagewind:  35:334/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:123/5mssavagewind:  1b:486/5mssavagewind:  1c:460/3221mssavagewind:  1d:345/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:115/0mssavagewind:  1a:231/7mssavagewind:  1b:352/3mssavagewind:  1c:460/1889mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t21savagewind:  1a:126/3mssavagewind:  1b:156/1mssavagewind:  1c:33/1946mssavagewind:  1d:53/0mssavagewind:  34:15/1mssavagewind:
+savagewind: [svcprof] t22savagewind:  1a:55/2mssavagewind:  1b:41/0mssavagewind:  1c:38/1972mssavagewind:  1d:11/0mssavagewind:  34:7/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1654/9mssavagewind:  1a:678/19mssavagewind:  1b:847/7mssavagewind:  1c:1839/747mssavagewind:  1d:109/0mssavagewind:  34:721/94mssavagewind:  35:1223/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1381/7mssavagewind:  1a:759/20mssavagewind:  1b:682/5mssavagewind:  1c:1725/780mssavagewind:  1d:11/0mssavagewind:  34:936/111mssavagewind:  35:814/6mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:822/601mssavagewind:  1a:121/4mssavagewind:  1b:507/3mssavagewind:  1c:26/2837mssavagewind:  1d:412/1mssavagewind:  21:4/1mssavagewind:  34:410/18mssavagewind:  35:3/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:417/11mssavagewind:  1b:428/4mssavagewind:  1c:600/1965mssavagewind:  1d:75/0mssavagewind:  35:426/2mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:344/2mssavagewind:  1a:179/5mssavagewind:  1b:281/3mssavagewind:  1c:79/1871mssavagewind:  1d:16/0mssavagewind:  21:3/1mssavagewind:  35:3/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:12/0mssavagewind:  1a:12/0mssavagewind:  1b:14/0mssavagewind:  1c:122/1995mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:115/1996mssavagewind:
+savagewind: [vk] t=4449.9 frame 7974 57.9 fps max 20ms internal=2560x1440 (628949 draws, 0 skipped, 22549 passes, 3287 dispatches, 821 flushes, wait 0ms, compile 0 (warm 4), fbcopy 0 (+75658 live), upload 186.8MB, sets 1262693 (1150573 shared), fbloop 33526 (33294 barriers), gmem waits 0 holds 0, uub 54718 (11858 same), gcopy 3200198 hit 440467 miss (149.3 MB)) | frame 17.3 ms (max 20.1), 73.3% on time, 0 hitches; cpu ms/frame: render 14.6 (max 17.7), guest 60.8 (max 966.4): 101 12.8 (max 17.1) 14b 10.3 (max 83.4) 120 9.8 (max 13.4) 121 9.4 (max 12.0); gpu ms/frame 7.4 (max 7.9, 116 frames)
+savagewind: [svcprof] t0savagewind:  1a:46/4mssavagewind:  1b:223/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:143147/768mssavagewind:  1a:16/0mssavagewind:  1b:226/2mssavagewind:  1c:55/734mssavagewind:  1d:212/0mssavagewind:  34:2/1mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9360/51mssavagewind:  1a:306/68mssavagewind:  1b:579/4mssavagewind:  1c:295/3761mssavagewind:  1d:410/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/537mssavagewind:  1b:83/1mssavagewind:  1c:401/2232mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:403/12mssavagewind:  1b:362/2mssavagewind:  1c:534/1976mssavagewind:  1d:103/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:366/20mssavagewind:  1b:582/4mssavagewind:  1c:464/1953mssavagewind:  1d:193/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:215/8mssavagewind:  1b:543/4mssavagewind:  1c:400/1942mssavagewind:  1d:247/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:448/15mssavagewind:  1b:377/2mssavagewind:  1c:486/1977mssavagewind:  1d:72/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:410/23mssavagewind:  1b:560/4mssavagewind:  1c:461/1957mssavagewind:  1d:120/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:234/10mssavagewind:  1b:594/5mssavagewind:  1c:379/1933mssavagewind:  1d:293/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:171/145mssavagewind:  1b:57/1mssavagewind:  1c:118/1789mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:118/2000mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1657/9mssavagewind:  18:118/0mssavagewind:  1a:1848/242mssavagewind:  1b:8631/52mssavagewind:  1c:540/2157mssavagewind:  1d:6956/20mssavagewind:  21:236/1mssavagewind:  34:1315/118mssavagewind:  35:320/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:129/4mssavagewind:  1b:579/5mssavagewind:  1c:472/1979mssavagewind:  1d:353/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:245/6mssavagewind:  1b:365/2mssavagewind:  1c:472/1889mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:11/0mssavagewind:  1a:212/11mssavagewind:  1b:367/3mssavagewind:  1c:34/1861mssavagewind:  1d:176/0mssavagewind:  34:164/73mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:17/0mssavagewind:  1a:155/7mssavagewind:  1b:269/1mssavagewind:  1c:38/1882mssavagewind:  1d:157/0mssavagewind:  34:160/77mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1647/9mssavagewind:  1a:544/14mssavagewind:  1b:686/6mssavagewind:  1c:1887/685mssavagewind:  1d:97/0mssavagewind:  34:688/83mssavagewind:  35:1252/12mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1520/8mssavagewind:  1a:617/15mssavagewind:  1b:545/4mssavagewind:  1c:1769/731mssavagewind:  1d:13/0mssavagewind:  34:976/104mssavagewind:  35:843/7mssavagewind:
+savagewind: [svcprof] t26savagewind:  1c:9/5012mssavagewind:  35:2/0mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:924/601mssavagewind:  1a:161/4mssavagewind:  1b:617/3mssavagewind:  1c:33/3370mssavagewind:  1d:494/1mssavagewind:  21:28/69mssavagewind:  34:464/13mssavagewind:  35:17/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:529/13mssavagewind:  1b:647/5mssavagewind:  1c:962/1966mssavagewind:  1d:138/0mssavagewind:  35:711/4mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:434/2mssavagewind:  1a:295/7mssavagewind:  1b:453/3mssavagewind:  1c:174/2007mssavagewind:  1d:96/0mssavagewind:  35:28/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:7/0mssavagewind:  1a:12/0mssavagewind:  1b:16/0mssavagewind:  1c:178/1997mssavagewind:  35:52/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4451.9 frame 8092 58.9 fps max 19ms internal=2560x1440 (501039 draws, 0 skipped, 22807 passes, 3105 dispatches, 845 flushes, wait 0ms, compile 0 (warm 44), fbcopy 0 (+77727 live), upload 178.0MB, sets 1006717 (900566 shared), fbloop 34464 (34148 barriers), gmem waits 0 holds 0, uub 56841 (12587 same), gcopy 2651131 hit 366324 miss (135.5 MB), build waits 1) | frame 17.0 ms (max 19.7), 98.3% on time, 0 hitches; cpu ms/frame: render 12.7 (max 15.3), guest 61.5 (max 990.2): 101 13.1 (max 21.4) 14b 10.2 (max 53.5) 120 10.1 (max 14.2) 121 9.6 (max 13.2); gpu ms/frame 7.5 (max 8.1, 118 frames)
+savagewind: [audren-sdk] 28000 frames: render 516 us (max 838), mutex wait max 198 us, 0 underruns, peak 0.135; 2000 with the sink, voice sources 20 (max 30), command ids 0x4218adc0, gain 1.00
+savagewind: [audio] AudioOut 10.0 s: 1875 periods, 0 underruns (0 frames short), 0 errors (last 0), 0 frames dropped, 1 streams (1 resumed, lowest gain 1.00), queue peak 2512 frames; in 2000 puts, 480000 frames, peak -17.4 dBFS; ring read peak -17.4 dBFS; level peak -17.4 dBFS rms -42.2 dBFS
+savagewind: [svcprof] t0savagewind:  1a:44/4mssavagewind:  1b:221/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:143429/767mssavagewind:  1a:32/0mssavagewind:  1b:277/2mssavagewind:  1c:56/751mssavagewind:  1d:241/1mssavagewind:  34:3/0mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9629/53mssavagewind:  1a:301/62mssavagewind:  1b:564/3mssavagewind:  1c:296/3758mssavagewind:  1d:402/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/536mssavagewind:  1b:80/1mssavagewind:  1c:401/3063mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:431/14mssavagewind:  1b:390/2mssavagewind:  1c:471/1977mssavagewind:  1d:57/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:446/25mssavagewind:  1b:509/4mssavagewind:  1c:471/1960mssavagewind:  1d:68/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:261/9mssavagewind:  1b:685/5mssavagewind:  1c:356/1949mssavagewind:  1d:350/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:406/13mssavagewind:  1b:327/2mssavagewind:  1c:482/1978mssavagewind:  1d:62/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:369/22mssavagewind:  1b:470/4mssavagewind:  1c:474/1960mssavagewind:  1d:78/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:196/7mssavagewind:  1b:623/5mssavagewind:  1c:356/1937mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:183/132mssavagewind:  1b:75/1mssavagewind:  1c:118/1801mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:3/0mssavagewind:  1c:118/1999mssavagewind:  1d:3/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1617/9mssavagewind:  18:118/0mssavagewind:  1a:1923/303mssavagewind:  1b:8537/53mssavagewind:  1c:492/2065mssavagewind:  1d:6875/19mssavagewind:  21:236/1mssavagewind:  34:1269/109mssavagewind:  35:303/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:143/4mssavagewind:  1b:597/4mssavagewind:  1c:472/1952mssavagewind:  1d:351/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:245/6mssavagewind:  1b:372/2mssavagewind:  1c:472/1891mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:15/0mssavagewind:  1a:893/29mssavagewind:  1b:920/7mssavagewind:  1c:36/1911mssavagewind:  1d:75/0mssavagewind:  34:20/1mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:25/0mssavagewind:  1a:451/31mssavagewind:  1b:459/4mssavagewind:  1c:42/1933mssavagewind:  1d:55/0mssavagewind:  34:40/1mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1697/9mssavagewind:  1a:602/17mssavagewind:  1b:747/7mssavagewind:  1c:1888/721mssavagewind:  1d:117/0mssavagewind:  34:676/84mssavagewind:  35:1250/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1511/8mssavagewind:  1a:669/17mssavagewind:  1b:603/5mssavagewind:  1c:1770/755mssavagewind:  1d:9/0mssavagewind:  34:999/107mssavagewind:  35:833/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:863/568mssavagewind:  1a:181/4mssavagewind:  1b:554/3mssavagewind:  1c:23/1297mssavagewind:  1d:418/1mssavagewind:  34:413/13mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:938/26mssavagewind:  1b:1066/9mssavagewind:  1c:705/1938mssavagewind:  1d:147/0mssavagewind:  35:472/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:378/2mssavagewind:  1a:279/8mssavagewind:  1b:383/4mssavagewind:  1c:147/1977mssavagewind:  1d:57/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:99/0mssavagewind:  1a:76/3mssavagewind:  1b:106/1mssavagewind:  1c:192/1993mssavagewind:  35:16/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4453.9 frame 8210 58.9 fps max 17ms internal=2560x1440 (469948 draws, 0 skipped, 22706 passes, 2744 dispatches, 772 flushes, wait 0ms, compile 0 (warm 32), fbcopy 0 (+72261 live), upload 175.5MB, sets 944174 (843641 shared), fbloop 30908 (30614 barriers), gmem waits 0 holds 0, uub 55566 (12195 same), gcopy 2387277 hit 363128 miss (137.1 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 12.5 (max 14.2), guest 59.9 (max 980.4): 101 12.7 (max 16.3) 14b 10.3 (max 49.3) 120 9.8 (max 13.3) 121 9.3 (max 10.8); gpu ms/frame 7.1 (max 7.6, 117 frames)
+savagewind: [svcprof] t0savagewind:  1a:45/3mssavagewind:  1b:222/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:143343/763mssavagewind:  1a:10/0mssavagewind:  1b:216/1mssavagewind:  1c:56/749mssavagewind:  1d:203/1mssavagewind:  34:5/5mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:8/64299mssavagewind:  21:2/4mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9488/52mssavagewind:  1a:299/67mssavagewind:  1b:570/3mssavagewind:  1c:296/3765mssavagewind:  1d:408/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/526mssavagewind:  1b:77/1mssavagewind:  1c:402/3055mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:373/12mssavagewind:  1b:404/2mssavagewind:  1c:481/1977mssavagewind:  1d:96/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:421/22mssavagewind:  1b:500/3mssavagewind:  1c:502/1962mssavagewind:  1d:93/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:261/8mssavagewind:  1b:641/4mssavagewind:  1c:384/1951mssavagewind:  1d:322/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:400/13mssavagewind:  1b:314/2mssavagewind:  1c:482/1981mssavagewind:  1d:63/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:366/21mssavagewind:  1b:462/3mssavagewind:  1c:475/1963mssavagewind:  1d:76/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:173/6mssavagewind:  1b:618/5mssavagewind:  1c:354/1937mssavagewind:  1d:356/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:178/132mssavagewind:  1b:66/0mssavagewind:  1c:118/1804mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1622/9mssavagewind:  18:118/0mssavagewind:  1a:1837/298mssavagewind:  1b:8524/51mssavagewind:  1c:502/1105mssavagewind:  1d:6879/19mssavagewind:  21:236/1mssavagewind:  34:1277/112mssavagewind:  35:321/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:137/4mssavagewind:  1b:598/4mssavagewind:  1c:472/1939mssavagewind:  1d:353/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:242/6mssavagewind:  1b:367/2mssavagewind:  1c:472/1890mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:11/0mssavagewind:  1a:417/19mssavagewind:  1b:459/3mssavagewind:  1c:30/1903mssavagewind:  1d:82/0mssavagewind:  34:66/6mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:6/0mssavagewind:  1a:100/4mssavagewind:  1b:151/1mssavagewind:  1c:33/1928mssavagewind:  1d:85/0mssavagewind:  34:102/13mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1713/9mssavagewind:  1a:670/17mssavagewind:  1b:811/7mssavagewind:  1c:1887/725mssavagewind:  1d:104/0mssavagewind:  34:692/82mssavagewind:  35:1255/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1452/8mssavagewind:  1a:741/18mssavagewind:  1b:669/5mssavagewind:  1c:1769/759mssavagewind:  1d:18/0mssavagewind:  34:977/104mssavagewind:  35:849/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:1032/536mssavagewind:  1a:160/4mssavagewind:  1b:681/4mssavagewind:  1c:28/5252mssavagewind:  1d:552/1mssavagewind:  21:4/3mssavagewind:  34:539/14mssavagewind:  35:4/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:739/19mssavagewind:  1b:795/7mssavagewind:  1c:846/1943mssavagewind:  1d:94/0mssavagewind:  35:698/4mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:415/2mssavagewind:  1a:247/7mssavagewind:  1b:355/3mssavagewind:  1c:104/2030mssavagewind:  1d:23/0mssavagewind:  35:10/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:51/0mssavagewind:  1a:32/1mssavagewind:  1b:38/0mssavagewind:  1c:134/1997mssavagewind:  35:4/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4455.9 frame 8328 58.9 fps max 17ms internal=2560x1440 (488694 draws, 0 skipped, 22832 passes, 2855 dispatches, 745 flushes, wait 0ms, compile 0 (warm 16), fbcopy 0 (+74414 live), upload 182.4MB, sets 981777 (877247 shared), fbloop 32351 (32055 barriers), gmem waits 0 holds 0, uub 56868 (12560 same), gcopy 2500532 hit 366487 miss (139.8 MB), build waits 2) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 12.8 (max 15.0), guest 59.3 (max 941.4): 101 12.8 (max 14.5) 14b 10.2 (max 37.7) 120 9.8 (max 10.9) 121 9.4 (max 10.6); gpu ms/frame 7.3 (max 8.1, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:45/4mssavagewind:  1b:222/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:144896/777mssavagewind:  1a:7/1mssavagewind:  1b:207/1mssavagewind:  1c:55/738mssavagewind:  1d:200/1mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:14/2102mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9583/53mssavagewind:  1a:310/68mssavagewind:  1b:566/4mssavagewind:  1c:295/3754mssavagewind:  1d:402/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/533mssavagewind:  1a:1/0mssavagewind:  1b:88/1mssavagewind:  1c:400/3065mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:374/11mssavagewind:  1b:338/2mssavagewind:  1c:545/1973mssavagewind:  1d:84/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:231/15mssavagewind:  1b:782/5mssavagewind:  1c:487/1949mssavagewind:  1d:436/1mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:257/9mssavagewind:  1b:408/3mssavagewind:  1c:462/1949mssavagewind:  1d:154/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:395/12mssavagewind:  1b:331/2mssavagewind:  1c:483/1980mssavagewind:  1d:71/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:384/22mssavagewind:  1b:470/4mssavagewind:  1c:474/1961mssavagewind:  1d:75/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:187/7mssavagewind:  1b:621/5mssavagewind:  1c:356/1931mssavagewind:  1d:356/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:180/143mssavagewind:  1b:58/0mssavagewind:  1c:118/1792mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:118/1999mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1715/9mssavagewind:  18:118/0mssavagewind:  1a:1803/261mssavagewind:  1b:8467/51mssavagewind:  1c:513/3136mssavagewind:  1d:6886/19mssavagewind:  21:236/1mssavagewind:  34:1289/116mssavagewind:  35:290/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:134/4mssavagewind:  1b:595/5mssavagewind:  1c:472/1953mssavagewind:  1d:353/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:242/6mssavagewind:  1b:363/2mssavagewind:  1c:472/1889mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:1/0mssavagewind:  1a:197/7mssavagewind:  1b:214/1mssavagewind:  1c:25/1925mssavagewind:  1d:50/0mssavagewind:  34:25/2mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:2/0mssavagewind:  1a:157/12mssavagewind:  1b:172/1mssavagewind:  1c:30/1932mssavagewind:  1d:32/0mssavagewind:  34:31/1mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1680/9mssavagewind:  1a:639/16mssavagewind:  1b:777/7mssavagewind:  1c:1885/709mssavagewind:  1d:89/0mssavagewind:  34:661/83mssavagewind:  35:1265/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1405/7mssavagewind:  1a:686/17mssavagewind:  1b:616/5mssavagewind:  1c:1768/741mssavagewind:  1d:14/0mssavagewind:  34:984/103mssavagewind:  35:828/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:1011/536mssavagewind:  1a:199/4mssavagewind:  1b:624/3mssavagewind:  1c:23/2461mssavagewind:  1d:480/1mssavagewind:  21:1/0mssavagewind:  34:468/14mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:535/13mssavagewind:  1b:587/5mssavagewind:  1c:684/1969mssavagewind:  1d:108/0mssavagewind:  35:519/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:482/3mssavagewind:  1a:242/6mssavagewind:  1b:362/3mssavagewind:  1c:108/2016mssavagewind:  1d:4/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:20/0mssavagewind:  1a:6/0mssavagewind:  1b:10/0mssavagewind:  1c:138/1999mssavagewind:  35:17/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4457.9 frame 8446 58.9 fps max 19ms internal=2560x1440 (496717 draws, 0 skipped, 22760 passes, 3116 dispatches, 749 flushes, wait 0ms, compile 0 (warm 7), fbcopy 0 (+72887 live), upload 182.8MB, sets 998084 (890858 shared), fbloop 31865 (31629 barriers), gmem waits 0 holds 0, uub 55686 (12257 same), gcopy 2487685 hit 381526 miss (143.8 MB), build waits 1) | frame 17.0 ms (max 18.1), 99.2% on time, 0 hitches; cpu ms/frame: render 13.0 (max 15.8), guest 59.7 (max 950.6): 101 12.8 (max 15.8) 14b 10.2 (max 49.8) 120 9.9 (max 14.1) 121 9.5 (max 11.2); gpu ms/frame 7.2 (max 7.9, 118 frames)
+savagewind: radv/ps5 submissions: window count=3871 kwords=109346 claim_ms=9.4 copy_ms=42.2 flush_ms=13.9 agc_ms=113.7 suspend_ms=1016.2
+savagewind: [vk] GPU overlap: a one-off readback in submission 49602, waited for 49602 of 49602
+savagewind: [svcprof] t0savagewind:  1a:48/4mssavagewind:  1b:224/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:147097/784mssavagewind:  1a:6/0mssavagewind:  1b:203/1mssavagewind:  1c:56/750mssavagewind:  1d:200/0mssavagewind:  34:1/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:11/1731mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:9577/52mssavagewind:  1a:302/75mssavagewind:  1b:567/3mssavagewind:  1c:294/3752mssavagewind:  1d:400/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/531mssavagewind:  1b:78/1mssavagewind:  1c:401/3056mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:356/11mssavagewind:  1b:343/1mssavagewind:  1c:476/1981mssavagewind:  1d:93/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:336/19mssavagewind:  1b:418/3mssavagewind:  1c:486/1973mssavagewind:  1d:79/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:182/6mssavagewind:  1b:612/4mssavagewind:  1c:368/1950mssavagewind:  1d:344/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:434/14mssavagewind:  1b:374/2mssavagewind:  1c:475/1976mssavagewind:  1d:56/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:453/24mssavagewind:  1b:536/4mssavagewind:  1c:473/1958mssavagewind:  1d:71/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:241/9mssavagewind:  1b:664/5mssavagewind:  1c:354/1927mssavagewind:  1d:359/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:243/139mssavagewind:  1b:30/0mssavagewind:  1c:118/1830mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:3/0mssavagewind:  1c:118/2000mssavagewind:  1d:3/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1660/9mssavagewind:  18:118/0mssavagewind:  1a:1970/293mssavagewind:  1b:8779/52mssavagewind:  1c:517/2102mssavagewind:  1d:6931/18mssavagewind:  21:236/1mssavagewind:  34:1336/120mssavagewind:  35:327/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:103/3mssavagewind:  1b:574/4mssavagewind:  1c:472/1951mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:224/6mssavagewind:  1b:339/2mssavagewind:  1c:472/1889mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:8/0mssavagewind:  1a:134/4mssavagewind:  1b:150/1mssavagewind:  1c:12/1519mssavagewind:  1d:33/0mssavagewind:  34:18/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:6/0mssavagewind:  1a:99/3mssavagewind:  1b:129/1mssavagewind:  1c:15/1523mssavagewind:  1d:45/0mssavagewind:  34:40/1mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1610/9mssavagewind:  1a:806/19mssavagewind:  1b:941/7mssavagewind:  1c:1884/729mssavagewind:  1d:79/0mssavagewind:  34:689/80mssavagewind:  35:1264/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1556/8mssavagewind:  1a:899/22mssavagewind:  1b:780/6mssavagewind:  1c:1766/767mssavagewind:  1d:10/0mssavagewind:  34:1001/102mssavagewind:  35:845/6mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:742/468mssavagewind:  1a:147/4mssavagewind:  1b:494/2mssavagewind:  1c:22/1477mssavagewind:  1d:385/0mssavagewind:  34:372/9mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:388/9mssavagewind:  1b:445/3mssavagewind:  1c:595/1964mssavagewind:  1d:83/0mssavagewind:  35:425/2mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:297/2mssavagewind:  1a:199/5mssavagewind:  1b:269/2mssavagewind:  1c:83/1867mssavagewind:  1d:10/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:52/0mssavagewind:  1a:31/1mssavagewind:  1b:40/0mssavagewind:  1c:198/1996mssavagewind:  35:70/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4459.9 frame 8564 58.9 fps max 17ms internal=2560x1440 (491704 draws, 0 skipped, 22840 passes, 3114 dispatches, 752 flushes, wait 1ms, compile 0 (warm 26), fbcopy 0 (+73723 live), upload 177.6MB, sets 988056 (881020 shared), fbloop 32647 (32411 barriers), gmem waits 0 holds 0, uub 54879 (11797 same), gcopy 2508986 hit 372454 miss (141.4 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 12.9 (max 15.7), guest 59.4 (max 927.6): 101 12.6 (max 14.6) 14b 10.4 (max 67.9) 120 9.8 (max 13.0) 121 9.3 (max 11.1); gpu ms/frame 7.3 (max 8.0, 118 frames)
+savagewind: [vk] GPU overlap: a one-off readback in submission 50105, waited for 50105 of 50105
+savagewind: [svcprof] t0savagewind:  1a:49/4mssavagewind:  1b:224/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:92243/494mssavagewind:  1a:16/0mssavagewind:  1b:220/1mssavagewind:  1c:36/997mssavagewind:  1d:208/0mssavagewind:  34:2/4mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:7/2088mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:8078/228mssavagewind:  1a:315/78mssavagewind:  1b:558/4mssavagewind:  1c:275/3427mssavagewind:  1d:407/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:99086/537mssavagewind:  1b:92/1mssavagewind:  1c:400/3055mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:326/11mssavagewind:  1b:710/4mssavagewind:  1c:488/1958mssavagewind:  1d:335/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:352/19mssavagewind:  1b:592/4mssavagewind:  1c:590/1960mssavagewind:  1d:180/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:293/9mssavagewind:  1b:486/3mssavagewind:  1c:465/1917mssavagewind:  1d:156/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:352/10mssavagewind:  1b:326/2mssavagewind:  1c:474/1983mssavagewind:  1d:59/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:397/20mssavagewind:  1b:458/3mssavagewind:  1c:471/1966mssavagewind:  1d:69/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:151/4mssavagewind:  1b:598/4mssavagewind:  1c:356/1925mssavagewind:  1d:355/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:187/165mssavagewind:  1b:12/0mssavagewind:  1c:118/1738mssavagewind:
+savagewind: [svcprof] t15savagewind:  0b:1/0mssavagewind:  1a:3/0mssavagewind:  1b:32/0mssavagewind:  1c:119/1976mssavagewind:  1d:27/0mssavagewind:  34:27/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1619/8mssavagewind:  18:118/0mssavagewind:  1a:1898/120mssavagewind:  1b:8626/52mssavagewind:  1c:564/133mssavagewind:  1d:6872/21mssavagewind:  21:236/1mssavagewind:  34:1357/122mssavagewind:  35:315/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:79/3mssavagewind:  1b:487/5mssavagewind:  1c:472/2294mssavagewind:  1d:354/2mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:117/0mssavagewind:  1a:193/5mssavagewind:  1b:310/2mssavagewind:  1c:471/1881mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:21/0mssavagewind:  1a:262/16mssavagewind:  1b:357/3mssavagewind:  1c:39/2362mssavagewind:  1d:114/0mssavagewind:  34:89/25mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:27/0mssavagewind:  1a:219/19mssavagewind:  1b:302/2mssavagewind:  1c:43/2355mssavagewind:  1d:139/0mssavagewind:  34:140/22mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1663/9mssavagewind:  1a:945/26mssavagewind:  1b:1085/9mssavagewind:  1c:1885/645mssavagewind:  1d:95/0mssavagewind:  34:692/76mssavagewind:  35:1293/13mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1543/8mssavagewind:  1a:1015/27mssavagewind:  1b:908/7mssavagewind:  1c:1768/684mssavagewind:  1d:6/0mssavagewind:  34:988/97mssavagewind:  35:819/7mssavagewind:
+savagewind: [svcprof] t26savagewind:  1c:20/10277mssavagewind:  35:17/0mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:1168/603mssavagewind:  1a:308/8mssavagewind:  1b:1020/7mssavagewind:  1c:66/6034mssavagewind:  1d:790/3mssavagewind:  21:68/145mssavagewind:  34:779/244mssavagewind:  35:47/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:714/19mssavagewind:  1b:1013/8mssavagewind:  1c:1237/1936mssavagewind:  1d:302/1mssavagewind:  35:857/6mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:564/3mssavagewind:  1a:392/11mssavagewind:  1b:662/6mssavagewind:  1c:369/1966mssavagewind:  1d:212/0mssavagewind:  21:37/22mssavagewind:  35:68/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:46/0mssavagewind:  1a:30/0mssavagewind:  1b:39/0mssavagewind:  1c:176/1996mssavagewind:  35:48/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4461.9 frame 8682 58.9 fps max 20ms internal=2560x1440 (585995 draws, 0 skipped, 23770 passes, 3519 dispatches, 766 flushes, wait 3ms, compile 0 (warm 4), fbcopy 0 (+75009 live), upload 205.2MB, sets 1177043 (1061362 shared), fbloop 31806 (31570 barriers), gmem waits 0 holds 0, uub 58899 (13118 same), gcopy 2938355 hit 429326 miss (155.0 MB)) | frame 17.0 ms (max 19.7), 88.1% on time, 0 hitches; cpu ms/frame: render 14.4 (max 16.7), guest 64.0 (max 948.8): 101 13.3 (max 21.4) 120 10.4 (max 13.8) 121 9.9 (max 13.2) 14b 8.1 (max 162.8); gpu ms/frame 7.5 (max 8.1, 118 frames)
+savagewind: [audren-sdk] 30000 frames: render 516 us (max 869), mutex wait max 184 us, 0 underruns, peak 0.250; 2000 with the sink, voice sources 26 (max 34), command ids 0x4218adc0, gain 1.00
+savagewind: [audio] AudioOut 10.0 s: 1876 periods, 0 underruns (0 frames short), 0 errors (last 0), 0 frames dropped, 1 streams (1 resumed, lowest gain 1.00), queue peak 2512 frames; in 2001 puts, 480240 frames, peak -12.0 dBFS; ring read peak -12.0 dBFS; level peak -12.0 dBFS rms -36.1 dBFS
+savagewind: [svcprof] t0savagewind:  1a:47/4mssavagewind:  1b:224/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:143617/768mssavagewind:  1a:14/2mssavagewind:  1b:216/1mssavagewind:  1c:55/730mssavagewind:  1d:205/1mssavagewind:  34:3/2mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:7/2102mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:8035/404mssavagewind:  1a:316/72mssavagewind:  1b:568/4mssavagewind:  1c:275/3407mssavagewind:  1d:413/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/539mssavagewind:  1b:88/1mssavagewind:  1c:402/3041mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:361/11mssavagewind:  1b:458/2mssavagewind:  1c:538/1975mssavagewind:  1d:162/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:261/17mssavagewind:  1b:775/5mssavagewind:  1c:516/1957mssavagewind:  1d:374/1mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:294/10mssavagewind:  1b:416/3mssavagewind:  1c:467/1928mssavagewind:  1d:145/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:446/15mssavagewind:  1b:376/2mssavagewind:  1c:472/1960mssavagewind:  1d:71/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:440/23mssavagewind:  1b:496/4mssavagewind:  1c:468/1948mssavagewind:  1d:62/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:183/7mssavagewind:  1b:618/4mssavagewind:  1c:351/1911mssavagewind:  1d:355/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:224/170mssavagewind:  1b:16/0mssavagewind:  1c:118/1803mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:117/1983mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1637/9mssavagewind:  18:118/0mssavagewind:  1a:1964/221mssavagewind:  1b:8779/53mssavagewind:  1c:517/4459mssavagewind:  1d:6883/19mssavagewind:  21:236/1mssavagewind:  34:1378/165mssavagewind:  35:324/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:122/5mssavagewind:  1b:570/5mssavagewind:  1c:472/1978mssavagewind:  1d:354/2mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:238/7mssavagewind:  1b:360/3mssavagewind:  1c:472/1882mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:3/0mssavagewind:  1a:149/6mssavagewind:  1b:172/1mssavagewind:  1c:37/1979mssavagewind:  1d:47/0mssavagewind:  34:24/2mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:9/0mssavagewind:  1a:115/5mssavagewind:  1b:98/0mssavagewind:  1c:39/2017mssavagewind:  1d:8/0mssavagewind:  34:4/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1651/9mssavagewind:  1a:1371/31mssavagewind:  1b:1464/10mssavagewind:  1c:1885/688mssavagewind:  1d:108/0mssavagewind:  34:719/87mssavagewind:  35:1278/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1533/8mssavagewind:  1a:1439/33mssavagewind:  1b:1361/9mssavagewind:  1c:1766/750mssavagewind:  1d:8/0mssavagewind:  34:960/106mssavagewind:  35:852/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:975/635mssavagewind:  1a:203/5mssavagewind:  1b:682/4mssavagewind:  1c:35/3688mssavagewind:  1d:532/1mssavagewind:  21:14/20mssavagewind:  34:528/60mssavagewind:  35:10/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:465/12mssavagewind:  1b:571/5mssavagewind:  1c:743/1962mssavagewind:  1d:113/0mssavagewind:  35:546/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:427/2mssavagewind:  1a:195/5mssavagewind:  1b:311/3mssavagewind:  1c:127/2002mssavagewind:  1d:41/0mssavagewind:  21:7/5mssavagewind:  35:9/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:14/0mssavagewind:  1a:5/0mssavagewind:  1b:11/0mssavagewind:  1c:159/1998mssavagewind:  35:37/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4463.9 frame 8800 58.9 fps max 19ms internal=2560x1440 (559896 draws, 0 skipped, 24113 passes, 3977 dispatches, 752 flushes, wait 0ms, compile 0 (warm 16), fbcopy 0 (+69206 live), upload 197.2MB, sets 1125303 (1012410 shared), fbloop 31315 (31079 barriers), gmem waits 0 holds 0, uub 56987 (12603 same), gcopy 2789997 hit 414813 miss (150.2 MB), build waits 1) | frame 17.0 ms (max 18.9), 99.2% on time, 0 hitches; cpu ms/frame: render 13.9 (max 16.6), guest 59.8 (max 933.9): 101 12.5 (max 17.0) 14b 10.4 (max 50.3) 120 10.0 (max 12.9) 121 9.3 (max 12.8); gpu ms/frame 7.4 (max 7.9, 118 frames)
+savagewind: [vk] GPU overlap: a one-off readback in submission 51694, waited for 51694 of 51694
+savagewind: [svcprof] t0savagewind:  1a:48/4mssavagewind:  1b:224/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:146093/781mssavagewind:  1a:10/2mssavagewind:  1b:232/1mssavagewind:  1c:55/739mssavagewind:  1d:222/1mssavagewind:  34:2/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:7/2085mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:7421/596mssavagewind:  1a:303/75mssavagewind:  1b:542/4mssavagewind:  1c:264/3220mssavagewind:  1d:404/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/537mssavagewind:  1a:1/0mssavagewind:  1b:79/1mssavagewind:  1c:401/3043mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:388/11mssavagewind:  1b:378/2mssavagewind:  1c:534/1975mssavagewind:  1d:121/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:346/19mssavagewind:  1b:641/4mssavagewind:  1c:538/1948mssavagewind:  1d:244/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:217/7mssavagewind:  1b:599/4mssavagewind:  1c:404/1935mssavagewind:  1d:317/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:527/17mssavagewind:  1b:432/3mssavagewind:  1c:478/1971mssavagewind:  1d:68/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:494/26mssavagewind:  1b:580/5mssavagewind:  1c:473/1956mssavagewind:  1d:75/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:204/8mssavagewind:  1b:632/5mssavagewind:  1c:360/1928mssavagewind:  1d:347/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:212/156mssavagewind:  1b:5/0mssavagewind:  1c:118/1813mssavagewind:
+savagewind: [svcprof] t15savagewind:  1a:1/0mssavagewind:  1b:4/0mssavagewind:  1c:118/1999mssavagewind:  1d:4/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1756/9mssavagewind:  18:118/0mssavagewind:  1a:1857/217mssavagewind:  1b:8661/53mssavagewind:  1c:537/1105mssavagewind:  1d:6881/18mssavagewind:  21:235/1mssavagewind:  34:1370/147mssavagewind:  35:303/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:114/4mssavagewind:  1b:580/5mssavagewind:  1c:470/1979mssavagewind:  1d:353/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:233/6mssavagewind:  1b:347/3mssavagewind:  1c:471/1879mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:36/0mssavagewind:  1a:405/14mssavagewind:  1b:574/4mssavagewind:  1c:39/1623mssavagewind:  1d:207/0mssavagewind:  34:168/15mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:20/0mssavagewind:  1a:204/8mssavagewind:  1b:204/1mssavagewind:  1c:42/1667mssavagewind:  1d:59/0mssavagewind:  34:56/7mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1677/9mssavagewind:  1a:1092/24mssavagewind:  1b:1238/9mssavagewind:  1c:1887/697mssavagewind:  1d:134/0mssavagewind:  34:718/88mssavagewind:  35:1278/12mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1402/7mssavagewind:  1a:1142/25mssavagewind:  1b:1106/8mssavagewind:  1c:1769/758mssavagewind:  1d:8/0mssavagewind:  34:939/106mssavagewind:  35:851/6mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:887/568mssavagewind:  1a:176/5mssavagewind:  1b:567/3mssavagewind:  1c:31/3017mssavagewind:  1d:435/1mssavagewind:  21:10/14mssavagewind:  34:436/18mssavagewind:  35:6/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:673/17mssavagewind:  1b:806/6mssavagewind:  1c:848/1951mssavagewind:  1d:133/0mssavagewind:  35:626/4mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:434/2mssavagewind:  1a:272/8mssavagewind:  1b:379/4mssavagewind:  1c:155/1994mssavagewind:  1d:41/0mssavagewind:  21:1/0mssavagewind:  35:14/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:64/0mssavagewind:  1a:46/2mssavagewind:  1b:61/0mssavagewind:  1c:192/1994mssavagewind:  35:57/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4465.9 frame 8918 58.9 fps max 19ms internal=2560x1440 (555938 draws, 0 skipped, 24242 passes, 4498 dispatches, 765 flushes, wait 1ms, compile 0 (warm 14), fbcopy 0 (+70711 live), upload 192.2MB, sets 1117908 (1002898 shared), fbloop 32228 (31992 barriers), gmem waits 0 holds 0, uub 56283 (12400 same), gcopy 2744035 hit 413286 miss (148.9 MB), build waits 1) | frame 17.0 ms (max 18.7), 98.3% on time, 0 hitches; cpu ms/frame: render 13.9 (max 16.2), guest 60.4 (max 928.4): 101 12.8 (max 16.3) 14b 10.3 (max 71.6) 120 9.9 (max 13.3) 121 9.3 (max 11.7); gpu ms/frame 7.4 (max 8.2, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:57/5mssavagewind:  1b:228/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:145965/778mssavagewind:  1a:7/0mssavagewind:  1b:204/1mssavagewind:  1c:56/766mssavagewind:  1d:195/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:7/1562mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:7289/679mssavagewind:  1a:305/99mssavagewind:  1b:540/3mssavagewind:  1c:253/3074mssavagewind:  1d:400/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/535mssavagewind:  1b:76/1mssavagewind:  1c:400/3037mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:381/11mssavagewind:  1b:420/2mssavagewind:  1c:546/1955mssavagewind:  1d:154/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:349/20mssavagewind:  1b:509/3mssavagewind:  1c:567/1939mssavagewind:  1d:154/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:179/6mssavagewind:  1b:688/5mssavagewind:  1c:381/1921mssavagewind:  1d:397/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:493/18mssavagewind:  1b:453/3mssavagewind:  1c:477/1972mssavagewind:  1d:73/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:478/26mssavagewind:  1b:567/5mssavagewind:  1c:474/1956mssavagewind:  1d:63/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:232/9mssavagewind:  1b:658/5mssavagewind:  1c:356/1934mssavagewind:  1d:355/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:170/146mssavagewind:  1b:22/0mssavagewind:  1c:117/1812mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:118/2001mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1568/8mssavagewind:  18:117/0mssavagewind:  1a:1915/240mssavagewind:  1b:8598/51mssavagewind:  1c:558/3148mssavagewind:  1d:6847/18mssavagewind:  21:235/1mssavagewind:  34:1379/128mssavagewind:  35:294/2mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:124/5mssavagewind:  1b:571/5mssavagewind:  1c:470/1967mssavagewind:  1d:351/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:238/7mssavagewind:  1b:364/3mssavagewind:  1c:470/1872mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:17/0mssavagewind:  1a:234/17mssavagewind:  1b:312/2mssavagewind:  1c:28/2182mssavagewind:  1d:83/0mssavagewind:  34:66/4mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:18/0mssavagewind:  1a:212/11mssavagewind:  1b:212/2mssavagewind:  1c:31/2223mssavagewind:  1d:47/0mssavagewind:  34:47/2mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1758/9mssavagewind:  1a:1034/24mssavagewind:  1b:1178/9mssavagewind:  1c:1887/707mssavagewind:  1d:146/0mssavagewind:  34:759/84mssavagewind:  35:1203/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1489/8mssavagewind:  1a:951/23mssavagewind:  1b:896/7mssavagewind:  1c:1769/746mssavagewind:  1d:10/0mssavagewind:  34:895/99mssavagewind:  35:973/8mssavagewind:
+savagewind: [svcprof] t26savagewind:  1c:4/6341mssavagewind:  35:3/0mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:791/667mssavagewind:  1a:166/4mssavagewind:  1b:510/3mssavagewind:  1c:26/3524mssavagewind:  1d:383/0mssavagewind:  21:6/23mssavagewind:  34:374/13mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:478/11mssavagewind:  1b:534/4mssavagewind:  1c:687/1949mssavagewind:  1d:72/0mssavagewind:  35:485/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:344/2mssavagewind:  1a:178/4mssavagewind:  1b:256/2mssavagewind:  1c:74/1952mssavagewind:  1d:11/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:42/0mssavagewind:  1a:16/0mssavagewind:  1b:26/0mssavagewind:  1c:129/1981mssavagewind:  35:5/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:117/1983mssavagewind:
+savagewind: [vk] t=4467.9 frame 9036 58.9 fps max 18ms internal=2560x1440 (470876 draws, 0 skipped, 23218 passes, 4704 dispatches, 750 flushes, wait 0ms, compile 0 (warm 7), fbcopy 0 (+64462 live), upload 170.8MB, sets 947990 (844820 shared), fbloop 29268 (29032 barriers), gmem waits 0 holds 0, uub 55535 (12322 same), gcopy 2356205 hit 342050 miss (132.1 MB)) | frame 17.0 ms (max 17.8), 99.2% on time, 0 hitches; cpu ms/frame: render 12.3 (max 14.3), guest 61.0 (max 948.2): 101 13.2 (max 16.9) 14b 10.1 (max 49.0) 120 9.9 (max 13.9) 121 9.5 (max 12.1); gpu ms/frame 7.1 (max 7.6, 118 frames)
+savagewind: radv/ps5 submissions: window count=3785 kwords=119639 claim_ms=9.3 copy_ms=45.3 flush_ms=14.7 agc_ms=212.3 suspend_ms=1092.1
+savagewind: [svcprof] t0savagewind:  1a:57/5mssavagewind:  1b:229/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:143356/757mssavagewind:  1a:11/2mssavagewind:  1b:203/1mssavagewind:  1c:54/732mssavagewind:  1d:193/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:4/2201mssavagewind:  21:1/3mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:8501/323mssavagewind:  1a:316/100mssavagewind:  1b:571/4mssavagewind:  1c:275/3449mssavagewind:  1d:408/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/526mssavagewind:  1b:86/1mssavagewind:  1c:402/3054mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:406/13mssavagewind:  1b:344/1mssavagewind:  1c:534/1975mssavagewind:  1d:83/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:378/21mssavagewind:  1b:523/4mssavagewind:  1c:543/1954mssavagewind:  1d:117/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:206/7mssavagewind:  1b:714/5mssavagewind:  1c:379/1944mssavagewind:  1d:416/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:499/17mssavagewind:  1b:416/3mssavagewind:  1c:479/1973mssavagewind:  1d:51/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:484/25mssavagewind:  1b:553/5mssavagewind:  1c:471/1958mssavagewind:  1d:83/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:198/8mssavagewind:  1b:649/5mssavagewind:  1c:356/1932mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:193/145mssavagewind:  1b:15/0mssavagewind:  1c:118/1826mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:4/0mssavagewind:  1c:118/1999mssavagewind:  1d:4/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1646/9mssavagewind:  18:118/0mssavagewind:  1a:1937/267mssavagewind:  1b:8659/51mssavagewind:  1c:507/2105mssavagewind:  1d:6875/18mssavagewind:  21:236/1mssavagewind:  34:1293/105mssavagewind:  35:308/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:111/4mssavagewind:  1b:576/5mssavagewind:  1c:472/1940mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:226/7mssavagewind:  1b:346/3mssavagewind:  1c:472/1879mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:7/0mssavagewind:  1a:236/12mssavagewind:  1b:300/2mssavagewind:  1c:26/1912mssavagewind:  1d:85/0mssavagewind:  34:56/16mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:21/0mssavagewind:  1a:159/10mssavagewind:  1b:193/1mssavagewind:  1c:29/1940mssavagewind:  1d:66/0mssavagewind:  34:63/14mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1697/9mssavagewind:  1a:813/19mssavagewind:  1b:917/7mssavagewind:  1c:1886/737mssavagewind:  1d:93/0mssavagewind:  34:738/79mssavagewind:  35:1189/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1477/8mssavagewind:  1a:867/19mssavagewind:  1b:831/6mssavagewind:  1c:1769/770mssavagewind:  1d:9/0mssavagewind:  34:918/99mssavagewind:  35:905/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:836/535mssavagewind:  1a:174/5mssavagewind:  1b:577/3mssavagewind:  1c:29/3399mssavagewind:  1d:449/1mssavagewind:  21:11/16mssavagewind:  34:431/13mssavagewind:  35:9/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:505/13mssavagewind:  1b:620/5mssavagewind:  1c:710/1962mssavagewind:  1d:120/0mssavagewind:  35:522/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:387/2mssavagewind:  1a:173/4mssavagewind:  1b:265/2mssavagewind:  1c:138/1915mssavagewind:  1d:24/0mssavagewind:  35:9/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:10/0mssavagewind:  1a:6/0mssavagewind:  1b:11/0mssavagewind:  1c:149/1998mssavagewind:  35:24/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4469.9 frame 9154 58.9 fps max 17ms internal=2560x1440 (465746 draws, 0 skipped, 22944 passes, 4421 dispatches, 757 flushes, wait 0ms, compile 0 (warm 0), fbcopy 0 (+64096 live), upload 164.9MB, sets 937447 (837525 shared), fbloop 30135 (29899 barriers), gmem waits 0 holds 0, uub 54634 (11676 same), gcopy 2323459 hit 334497 miss (128.1 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 11.9 (max 13.9), guest 60.1 (max 934.8): 101 13.0 (max 14.1) 14b 10.4 (max 55.6) 120 9.7 (max 11.5) 121 9.3 (max 10.2); gpu ms/frame 6.9 (max 7.8, 119 frames)
+savagewind: [svcprof] t0savagewind:  1a:52/4mssavagewind:  1b:226/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:145913/768mssavagewind:  1a:4/0mssavagewind:  1b:185/1mssavagewind:  1c:57/803mssavagewind:  1d:182/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:7/2086mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:8058/486mssavagewind:  1a:300/86mssavagewind:  1b:549/3mssavagewind:  1c:268/3302mssavagewind:  1d:402/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/523mssavagewind:  1b:74/1mssavagewind:  1c:401/3066mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:360/11mssavagewind:  1b:309/1mssavagewind:  1c:526/1979mssavagewind:  1d:67/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:295/18mssavagewind:  1b:621/4mssavagewind:  1c:525/1953mssavagewind:  1d:267/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:205/7mssavagewind:  1b:574/4mssavagewind:  1c:412/1948mssavagewind:  1d:309/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:450/14mssavagewind:  1b:403/2mssavagewind:  1c:473/1978mssavagewind:  1d:57/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:446/22mssavagewind:  1b:500/4mssavagewind:  1c:486/1964mssavagewind:  1d:72/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:177/6mssavagewind:  1b:641/5mssavagewind:  1c:354/1928mssavagewind:  1d:375/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:158/131mssavagewind:  1b:14/0mssavagewind:  1c:118/1843mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1673/9mssavagewind:  18:118/0mssavagewind:  1a:1906/282mssavagewind:  1b:8536/49mssavagewind:  1c:503/90mssavagewind:  1d:6848/18mssavagewind:  21:238/1mssavagewind:  34:1294/102mssavagewind:  35:299/3mssavagewind:
+savagewind: [svcprof] t17savagewind:  1a:2/20mssavagewind:  1b:1/0mssavagewind:  1c:4/23379mssavagewind:  21:31/61mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:147/5mssavagewind:  1b:607/5mssavagewind:  1c:472/1957mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:252/7mssavagewind:  1b:382/3mssavagewind:  1c:472/1886mssavagewind:
+savagewind: [svcprof] t21savagewind:  1a:44/8mssavagewind:  1b:67/0mssavagewind:  1c:15/1898mssavagewind:  1d:28/0mssavagewind:  34:15/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:1/0mssavagewind:  1a:23/1mssavagewind:  1b:16/0mssavagewind:  1c:17/1928mssavagewind:  1d:3/0mssavagewind:  34:3/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1695/9mssavagewind:  1a:835/21mssavagewind:  1b:964/8mssavagewind:  1c:1888/752mssavagewind:  1d:80/0mssavagewind:  34:755/76mssavagewind:  35:1152/10mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1451/7mssavagewind:  1a:924/22mssavagewind:  1b:856/6mssavagewind:  1c:1770/780mssavagewind:  1d:12/0mssavagewind:  34:882/90mssavagewind:  35:974/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:647/599mssavagewind:  1a:127/3mssavagewind:  1b:394/2mssavagewind:  1c:23/1297mssavagewind:  1d:302/0mssavagewind:  34:287/8mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:310/7mssavagewind:  1b:336/2mssavagewind:  1c:451/1978mssavagewind:  1d:64/0mssavagewind:  35:305/2mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:274/1mssavagewind:  1a:143/3mssavagewind:  1b:206/1mssavagewind:  1c:64/2043mssavagewind:
+savagewind: [svcprof] t30savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4471.9 frame 9272 58.9 fps max 17ms internal=2560x1440 (460500 draws, 0 skipped, 23075 passes, 3953 dispatches, 757 flushes, wait 0ms, compile 0 (warm 6), fbcopy 0 (+65462 live), upload 157.5MB, sets 926487 (828449 shared), fbloop 32973 (32737 barriers), gmem waits 0 holds 0, uub 53904 (11792 same), gcopy 2386374 hit 323407 miss (125.2 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 11.7 (max 13.8), guest 57.8 (max 917.7): 101 12.8 (max 14.3) 14b 9.8 (max 42.4) 120 9.6 (max 10.5) 121 9.3 (max 10.0); gpu ms/frame 7.2 (max 8.0, 117 frames)
+savagewind: [audren-sdk] 32000 frames: render 582 us (max 1007), mutex wait max 200 us, 0 underruns, peak 0.148; 2000 with the sink, voice sources 32 (max 47), command ids 0x4218adc0, gain 1.00
+savagewind: [audio] AudioOut 10.0 s: 1875 periods, 0 underruns (0 frames short), 0 errors (last 0), 0 frames dropped, 1 streams (1 resumed, lowest gain 1.00), queue peak 2512 frames; in 2001 puts, 480240 frames, peak -16.6 dBFS; ring read peak -16.6 dBFS; level peak -16.6 dBFS rms -40.2 dBFS
+savagewind: [svcprof] t0savagewind:  1a:52/5mssavagewind:  1b:226/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:145984/782mssavagewind:  1a:7/0mssavagewind:  1b:193/1mssavagewind:  1c:56/764mssavagewind:  1d:188/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:7/2104mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:8518/360mssavagewind:  1a:325/84mssavagewind:  1b:559/3mssavagewind:  1c:275/3426mssavagewind:  1d:402/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/528mssavagewind:  1b:98/1mssavagewind:  1c:401/3067mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:363/11mssavagewind:  1b:316/1mssavagewind:  1c:511/1979mssavagewind:  1d:76/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:283/18mssavagewind:  1b:571/4mssavagewind:  1c:545/1952mssavagewind:  1d:225/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:186/6mssavagewind:  1b:582/4mssavagewind:  1c:401/1947mssavagewind:  1d:338/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:383/11mssavagewind:  1b:313/1mssavagewind:  1c:477/1982mssavagewind:  1d:62/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:358/20mssavagewind:  1b:465/4mssavagewind:  1c:494/1962mssavagewind:  1d:86/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:178/6mssavagewind:  1b:632/4mssavagewind:  1c:362/1937mssavagewind:  1d:365/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:195/136mssavagewind:  1b:47/0mssavagewind:  1c:118/1838mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1606/8mssavagewind:  18:118/0mssavagewind:  1a:1836/250mssavagewind:  1b:8512/52mssavagewind:  1c:498/3137mssavagewind:  1d:6853/19mssavagewind:  21:236/1mssavagewind:  34:1327/103mssavagewind:  35:304/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:82/3mssavagewind:  1b:538/4mssavagewind:  1c:472/1965mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:195/5mssavagewind:  1b:317/2mssavagewind:  1c:472/1892mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:3/0mssavagewind:  1a:356/10mssavagewind:  1b:470/3mssavagewind:  1c:22/2015mssavagewind:  1d:131/0mssavagewind:  34:109/3mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:9/0mssavagewind:  1a:93/3mssavagewind:  1b:82/0mssavagewind:  1c:24/2059mssavagewind:  1d:9/0mssavagewind:  34:2/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1638/9mssavagewind:  1a:936/24mssavagewind:  1b:1046/8mssavagewind:  1c:1887/715mssavagewind:  1d:95/0mssavagewind:  34:787/81mssavagewind:  35:1134/10mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1540/8mssavagewind:  1a:927/23mssavagewind:  1b:884/7mssavagewind:  1c:1769/747mssavagewind:  1d:11/0mssavagewind:  34:850/90mssavagewind:  35:1000/8mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:934/469mssavagewind:  1a:167/4mssavagewind:  1b:624/3mssavagewind:  1c:25/4539mssavagewind:  1d:494/1mssavagewind:  21:2/2mssavagewind:  34:484/14mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:666/16mssavagewind:  1b:697/5mssavagewind:  1c:758/1957mssavagewind:  1d:76/0mssavagewind:  35:595/4mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:360/2mssavagewind:  1a:183/4mssavagewind:  1b:281/2mssavagewind:  1c:78/1988mssavagewind:  1d:4/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:5/0mssavagewind:  1a:1/0mssavagewind:  1b:2/0mssavagewind:  1c:123/2000mssavagewind:  35:4/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4473.9 frame 9390 59.0 fps max 17ms internal=2560x1440 (459515 draws, 0 skipped, 23241 passes, 3269 dispatches, 762 flushes, wait 0ms, compile 0 (warm 6), fbcopy 0 (+58842 live), upload 169.0MB, sets 923833 (825249 shared), fbloop 28682 (28442 barriers), gmem waits 0 holds 0, uub 56557 (12525 same), gcopy 2348688 hit 329529 miss (126.6 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 12.1 (max 13.8), guest 59.8 (max 936.5): 101 13.1 (max 15.2) 14b 10.1 (max 48.6) 120 9.9 (max 13.7) 121 9.5 (max 11.7); gpu ms/frame 7.1 (max 7.7, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:54/5mssavagewind:  1b:226/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:145036/772mssavagewind:  1a:21/0mssavagewind:  1b:241/1mssavagewind:  1c:55/757mssavagewind:  1d:220/1mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:11/2050mssavagewind:  21:1/4mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:7965/469mssavagewind:  1a:309/93mssavagewind:  1b:559/3mssavagewind:  1c:268/3316mssavagewind:  1d:406/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/533mssavagewind:  1b:81/1mssavagewind:  1c:400/3063mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:356/11mssavagewind:  1b:500/2mssavagewind:  1c:526/1961mssavagewind:  1d:196/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:300/18mssavagewind:  1b:633/4mssavagewind:  1c:548/1952mssavagewind:  1d:256/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:249/9mssavagewind:  1b:481/4mssavagewind:  1c:450/1946mssavagewind:  1d:197/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:432/13mssavagewind:  1b:345/2mssavagewind:  1c:478/1981mssavagewind:  1d:66/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:333/19mssavagewind:  1b:630/5mssavagewind:  1c:423/1950mssavagewind:  1d:231/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:285/12mssavagewind:  1b:474/4mssavagewind:  1c:426/1950mssavagewind:  1d:153/0mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:185/145mssavagewind:  1b:34/0mssavagewind:  1c:118/1818mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:2/0mssavagewind:  1c:118/2001mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1698/9mssavagewind:  18:118/0mssavagewind:  1a:1966/235mssavagewind:  1b:8892/55mssavagewind:  1c:517/3098mssavagewind:  1d:7088/21mssavagewind:  21:236/1mssavagewind:  34:1443/112mssavagewind:  35:337/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:72/2mssavagewind:  1b:529/4mssavagewind:  1c:472/1953mssavagewind:  1d:352/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:187/5mssavagewind:  1b:305/2mssavagewind:  1c:472/1893mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:8/0mssavagewind:  1a:253/10mssavagewind:  1b:344/3mssavagewind:  1c:34/1906mssavagewind:  1d:112/0mssavagewind:  34:80/14mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:20/0mssavagewind:  1a:174/9mssavagewind:  1b:165/1mssavagewind:  1c:38/1952mssavagewind:  1d:32/0mssavagewind:  34:24/1mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1699/9mssavagewind:  1a:998/25mssavagewind:  1b:1104/9mssavagewind:  1c:1882/697mssavagewind:  1d:104/0mssavagewind:  34:768/79mssavagewind:  35:1155/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1438/7mssavagewind:  1a:982/25mssavagewind:  1b:934/7mssavagewind:  1c:1764/737mssavagewind:  1d:10/0mssavagewind:  34:907/90mssavagewind:  35:905/7mssavagewind:
+savagewind: [svcprof] t26savagewind:  1c:5/8130mssavagewind:  35:4/0mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:1361/670mssavagewind:  1a:261/8mssavagewind:  1b:973/6mssavagewind:  1c:36/4263mssavagewind:  1d:785/2mssavagewind:  21:20/33mssavagewind:  34:774/78mssavagewind:  35:13/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:759/21mssavagewind:  1b:916/8mssavagewind:  1c:1130/1945mssavagewind:  1d:209/0mssavagewind:  35:828/6mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:607/3mssavagewind:  1a:369/10mssavagewind:  1b:575/5mssavagewind:  1c:233/2026mssavagewind:  1d:109/0mssavagewind:  21:8/4mssavagewind:  35:29/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:16/0mssavagewind:  1a:31/1mssavagewind:  1b:38/0mssavagewind:  1c:331/1998mssavagewind:  35:198/1mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2001mssavagewind:
+savagewind: [vk] t=4475.9 frame 9508 58.9 fps max 17ms internal=2560x1440 (488576 draws, 0 skipped, 23445 passes, 3658 dispatches, 782 flushes, wait 0ms, compile 0 (warm 8), fbcopy 0 (+61247 live), upload 182.8MB, sets 982344 (882648 shared), fbloop 29474 (29238 barriers), gmem waits 0 holds 0, uub 58978 (13171 same), gcopy 2513526 hit 352245 miss (129.0 MB)) | frame 17.0 ms (max 17.0), 100.0% on time, 0 hitches; cpu ms/frame: render 12.5 (max 14.9), guest 62.5 (max 925.6): 101 13.3 (max 18.0) 14b 10.3 (max 49.5) 120 10.1 (max 13.3) 121 9.6 (max 11.8); gpu ms/frame 7.3 (max 8.1, 119 frames)
+<118>[PFAuthClient][ERROR]pf_auth_client_request_for_ppr.cpp(464) Failed(ret=0x80410131)
+<118>[PFAuthClient][ERROR]pf_auth_client_request_for_ppr.cpp(258) Failed(ret=0x80410131)
+<118>[PFAuthClient][ERROR]pf_auth_client.cpp(84) Failed(ret=0x80410131)
+<118>[PFAuthClient][ERROR]pf_auth_client.cpp(90) Notified error:(0x80410131)
+<118>[PFAuthClient][ERROR]pf_auth_client_request_for_ppr.cpp(464) Failed(ret=0x80410131)
+<118>[PFAuthClient][ERROR]pf_auth_client_request_for_ppr.cpp(258) Failed(ret=0x80410131)
+<118>[PFAuthClient][ERROR]pf_auth_client.cpp(84) Failed(ret=0x80410131)
+<118>[PFAuthClient][ERROR]pf_auth_client.cpp(90) Notified error:(0x80410131)
+savagewind: [svcprof] t0savagewind:  1a:52/4mssavagewind:  1b:226/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:143602/764mssavagewind:  1a:7/1mssavagewind:  1b:210/1mssavagewind:  1c:56/738mssavagewind:  1d:201/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:13/1829mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:7699/533mssavagewind:  1a:310/83mssavagewind:  1b:550/3mssavagewind:  1c:264/3240mssavagewind:  1d:407/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/534mssavagewind:  1b:84/1mssavagewind:  1c:402/3049mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:402/13mssavagewind:  1b:442/2mssavagewind:  1c:564/1961mssavagewind:  1d:137/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:311/19mssavagewind:  1b:775/6mssavagewind:  1c:502/1940mssavagewind:  1d:363/1mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:287/11mssavagewind:  1b:440/3mssavagewind:  1c:481/1940mssavagewind:  1d:178/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:368/12mssavagewind:  1b:300/1mssavagewind:  1c:476/1981mssavagewind:  1d:62/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:332/19mssavagewind:  1b:525/4mssavagewind:  1c:457/1955mssavagewind:  1d:118/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:260/10mssavagewind:  1b:566/4mssavagewind:  1c:381/1942mssavagewind:  1d:286/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:201/151mssavagewind:  1b:15/0mssavagewind:  1c:118/1819mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:3/0mssavagewind:  1c:118/1998mssavagewind:  1d:3/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1681/9mssavagewind:  18:118/0mssavagewind:  1a:1797/246mssavagewind:  1b:8683/52mssavagewind:  1c:527/1070mssavagewind:  1d:6911/19mssavagewind:  21:236/1mssavagewind:  34:1346/123mssavagewind:  35:313/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:131/5mssavagewind:  1b:587/5mssavagewind:  1c:472/1957mssavagewind:  1d:353/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:117/0mssavagewind:  1a:235/7mssavagewind:  1b:363/3mssavagewind:  1c:471/1884mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:27/0mssavagewind:  1a:402/18mssavagewind:  1b:527/4mssavagewind:  1c:51/1874mssavagewind:  1d:146/0mssavagewind:  34:102/4mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:33/0mssavagewind:  1a:411/19mssavagewind:  1b:436/3mssavagewind:  1c:55/1898mssavagewind:  1d:84/0mssavagewind:  34:79/3mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1621/8mssavagewind:  1a:1031/24mssavagewind:  1b:1237/9mssavagewind:  1c:1887/715mssavagewind:  1d:173/0mssavagewind:  34:775/73mssavagewind:  35:1221/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1513/8mssavagewind:  1a:1055/24mssavagewind:  1b:973/7mssavagewind:  1c:1769/767mssavagewind:  1d:18/0mssavagewind:  34:912/90mssavagewind:  35:946/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:882/601mssavagewind:  1a:173/5mssavagewind:  1b:597/3mssavagewind:  1c:29/2320mssavagewind:  1d:459/1mssavagewind:  21:4/3mssavagewind:  34:453/24mssavagewind:  35:3/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:839/22mssavagewind:  1b:948/7mssavagewind:  1c:853/1942mssavagewind:  1d:138/0mssavagewind:  35:611/4mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:366/2mssavagewind:  1a:227/5mssavagewind:  1b:340/3mssavagewind:  1c:143/1969mssavagewind:  1d:39/0mssavagewind:  21:3/2mssavagewind:  35:3/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:31/0mssavagewind:  1a:16/0mssavagewind:  1b:28/0mssavagewind:  1c:159/1992mssavagewind:  35:26/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/1999mssavagewind:
+savagewind: [vk] t=4477.9 frame 9626 58.9 fps max 17ms internal=2560x1440 (486296 draws, 0 skipped, 23404 passes, 3709 dispatches, 781 flushes, wait 0ms, compile 0 (warm 8), fbcopy 0 (+62771 live), upload 173.0MB, sets 977835 (876001 shared), fbloop 29947 (29711 barriers), gmem waits 0 holds 0, uub 57049 (12833 same), gcopy 2403376 hit 369213 miss (129.7 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 12.5 (max 14.1), guest 60.7 (max 950.9): 101 12.9 (max 14.4) 14b 10.3 (max 38.6) 120 9.8 (max 10.9) 121 9.3 (max 10.6); gpu ms/frame 7.1 (max 7.8, 118 frames)
+savagewind: radv/ps5 submissions: window count=3846 kwords=106648 claim_ms=9.4 copy_ms=41.3 flush_ms=13.7 agc_ms=77.9 suspend_ms=883.3
+savagewind: [place] swr:1 x=-898.94 y=225.04 z=1956.67 yaw=66.2 pitch=-6.6 hour=7.88
+savagewind: [svcprof] t0savagewind:  1a:46/4mssavagewind:  1b:223/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:151565/806mssavagewind:  1a:7/0mssavagewind:  1b:199/1mssavagewind:  1c:58/760mssavagewind:  1d:194/1mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:14/2035mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:7728/518mssavagewind:  1a:306/69mssavagewind:  1b:547/4mssavagewind:  1c:269/3296mssavagewind:  1d:407/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/533mssavagewind:  1b:83/1mssavagewind:  1c:400/3051mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:435/14mssavagewind:  1b:597/3mssavagewind:  1c:549/1960mssavagewind:  1d:262/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:360/22mssavagewind:  1b:729/5mssavagewind:  1c:557/1946mssavagewind:  1d:293/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:275/9mssavagewind:  1b:407/3mssavagewind:  1c:472/1917mssavagewind:  1d:162/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:408/12mssavagewind:  1b:324/2mssavagewind:  1c:477/1981mssavagewind:  1d:64/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:335/19mssavagewind:  1b:588/4mssavagewind:  1c:432/1955mssavagewind:  1d:200/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:269/11mssavagewind:  1b:497/4mssavagewind:  1c:412/1953mssavagewind:  1d:192/0mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:208/178mssavagewind:  1b:4/0mssavagewind:  1c:118/1797mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:117/1983mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1676/9mssavagewind:  18:118/0mssavagewind:  1a:1781/246mssavagewind:  1b:8793/53mssavagewind:  1c:626/98mssavagewind:  1d:6959/19mssavagewind:  21:236/1mssavagewind:  34:1276/134mssavagewind:  35:335/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:116/5mssavagewind:  1b:573/5mssavagewind:  1c:472/1976mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:222/7mssavagewind:  1b:352/3mssavagewind:  1c:472/1895mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:11/0mssavagewind:  1a:160/12mssavagewind:  1b:215/1mssavagewind:  1c:39/1975mssavagewind:  1d:80/0mssavagewind:  34:47/3mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:11/0mssavagewind:  1a:119/4mssavagewind:  1b:119/1mssavagewind:  1c:46/2003mssavagewind:  1d:18/0mssavagewind:  34:12/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1763/9mssavagewind:  1a:1105/25mssavagewind:  1b:1300/9mssavagewind:  1c:1883/728mssavagewind:  1d:162/0mssavagewind:  34:763/78mssavagewind:  35:1235/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1384/7mssavagewind:  1a:1084/23mssavagewind:  1b:987/7mssavagewind:  1c:1766/800mssavagewind:  1d:16/0mssavagewind:  34:922/92mssavagewind:  35:864/6mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:1246/537mssavagewind:  1a:256/6mssavagewind:  1b:790/4mssavagewind:  1c:28/4331mssavagewind:  1d:586/1mssavagewind:  21:1/0mssavagewind:  34:574/15mssavagewind:  35:1/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:702/15mssavagewind:  1b:756/6mssavagewind:  1c:845/1955mssavagewind:  1d:114/0mssavagewind:  35:626/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:557/3mssavagewind:  1a:231/5mssavagewind:  1b:372/3mssavagewind:  1c:121/1990mssavagewind:  1d:9/0mssavagewind:  35:6/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:5/0mssavagewind:  1a:1/0mssavagewind:  1b:2/0mssavagewind:  1c:119/2000mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4479.9 frame 9744 58.9 fps max 17ms internal=2560x1440 (525830 draws, 0 skipped, 23514 passes, 3528 dispatches, 768 flushes, wait 0ms, compile 0 (warm 3), fbcopy 0 (+62861 live), upload 184.6MB, sets 1056722 (949923 shared), fbloop 29303 (29067 barriers), gmem waits 0 holds 0, uub 56971 (12298 same), gcopy 2509680 hit 396948 miss (137.0 MB)) | frame 17.0 ms (max 17.1), 100.0% on time, 0 hitches; cpu ms/frame: render 13.0 (max 15.1), guest 58.4 (max 935.3): 101 12.7 (max 14.4) 14b 10.1 (max 66.3) 120 9.7 (max 11.9) 121 9.0 (max 10.4); gpu ms/frame 7.0 (max 7.5, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:45/4mssavagewind:  1b:221/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:148906/787mssavagewind:  1a:5/0mssavagewind:  1b:215/1mssavagewind:  1c:57/779mssavagewind:  1d:210/1mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:9/2099mssavagewind:  21:2/4mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:8257/373mssavagewind:  1a:299/65mssavagewind:  1b:559/3mssavagewind:  1c:277/3438mssavagewind:  1d:409/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/530mssavagewind:  1b:77/1mssavagewind:  1c:401/3045mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:429/14mssavagewind:  1b:474/2mssavagewind:  1c:499/1969mssavagewind:  1d:134/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:418/22mssavagewind:  1b:568/4mssavagewind:  1c:507/1954mssavagewind:  1d:126/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:255/9mssavagewind:  1b:615/4mssavagewind:  1c:405/1939mssavagewind:  1d:302/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:512/16mssavagewind:  1b:403/3mssavagewind:  1c:469/1956mssavagewind:  1d:66/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:440/24mssavagewind:  1b:552/5mssavagewind:  1c:469/1939mssavagewind:  1d:74/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:277/11mssavagewind:  1b:670/5mssavagewind:  1c:356/1926mssavagewind:  1d:345/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:160/138mssavagewind:  1b:1/0mssavagewind:  1c:118/1838mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:118/1999mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1639/9mssavagewind:  18:118/0mssavagewind:  1a:1873/294mssavagewind:  1b:8595/50mssavagewind:  1c:536/3094mssavagewind:  1d:6849/18mssavagewind:  21:235/1mssavagewind:  34:1328/160mssavagewind:  35:297/2mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:90/3mssavagewind:  1b:557/4mssavagewind:  1c:439/1976mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:211/6mssavagewind:  1b:327/2mssavagewind:  1c:471/1893mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:23/0mssavagewind:  1a:183/7mssavagewind:  1b:268/2mssavagewind:  1c:30/1977mssavagewind:  1d:102/0mssavagewind:  34:77/11mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:11/0mssavagewind:  1a:132/5mssavagewind:  1b:113/0mssavagewind:  1c:35/2015mssavagewind:  1d:13/0mssavagewind:  34:11/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1698/9mssavagewind:  1a:987/22mssavagewind:  1b:1133/8mssavagewind:  1c:1888/757mssavagewind:  1d:103/0mssavagewind:  34:783/91mssavagewind:  35:1199/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1482/8mssavagewind:  1a:1028/23mssavagewind:  1b:943/7mssavagewind:  1c:1770/835mssavagewind:  1d:7/0mssavagewind:  34:841/104mssavagewind:  35:942/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:660/566mssavagewind:  1a:141/3mssavagewind:  1b:441/2mssavagewind:  1c:23/1613mssavagewind:  1d:330/0mssavagewind:  21:4/8mssavagewind:  34:320/8mssavagewind:  35:3/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:403/10mssavagewind:  1b:479/4mssavagewind:  1c:572/1968mssavagewind:  1d:96/0mssavagewind:  35:386/2mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:306/1mssavagewind:  1a:258/7mssavagewind:  1b:332/3mssavagewind:  1c:108/1965mssavagewind:  1d:42/0mssavagewind:  35:9/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:90/0mssavagewind:  1a:71/2mssavagewind:  1b:97/1mssavagewind:  1c:161/1993mssavagewind:  35:12/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4481.9 frame 9862 58.9 fps max 18ms internal=2560x1440 (581688 draws, 0 skipped, 23576 passes, 3768 dispatches, 825 flushes, wait 0ms, compile 0 (warm 8), fbcopy 0 (+65710 live), upload 176.8MB, sets 1168678 (1056698 shared), fbloop 29099 (28863 barriers), gmem waits 0 holds 0, uub 54913 (12096 same), gcopy 2854829 hit 416946 miss (140.2 MB), build waits 1) | frame 17.0 ms (max 18.0), 98.3% on time, 0 hitches; cpu ms/frame: render 13.7 (max 15.6), guest 57.1 (max 939.0): 101 12.4 (max 19.3) 14b 10.2 (max 46.2) 120 9.5 (max 12.0) 121 8.7 (max 11.1); gpu ms/frame 7.1 (max 7.6, 118 frames)
+savagewind: [audren-sdk] 34000 frames: render 553 us (max 965), mutex wait max 217 us, 0 underruns, peak 0.234; 2000 with the sink, voice sources 31 (max 39), command ids 0x4218adc0, gain 1.00
+savagewind: [audio] AudioOut 10.0 s: 1875 periods, 0 underruns (0 frames short), 0 errors (last 0), 0 frames dropped, 1 streams (1 resumed, lowest gain 1.00), queue peak 2512 frames; in 1999 puts, 479760 frames, peak -12.6 dBFS; ring read peak -12.6 dBFS; level peak -12.6 dBFS rms -38.7 dBFS
+savagewind: [svcprof] t0savagewind:  1a:49/4mssavagewind:  1b:224/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:153866/813mssavagewind:  1a:5/0mssavagewind:  1b:216/1mssavagewind:  1c:58/774mssavagewind:  1d:212/1mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:15/1949mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:8070/437mssavagewind:  1a:310/76mssavagewind:  1b:552/3mssavagewind:  1c:273/3370mssavagewind:  1d:404/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/530mssavagewind:  1b:86/1mssavagewind:  1c:401/3062mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:379/12mssavagewind:  1b:341/2mssavagewind:  1c:469/1965mssavagewind:  1d:69/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:405/21mssavagewind:  1b:465/3mssavagewind:  1c:467/1949mssavagewind:  1d:70/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:204/7mssavagewind:  1b:638/5mssavagewind:  1c:353/1934mssavagewind:  1d:353/1mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:410/14mssavagewind:  1b:342/2mssavagewind:  1c:471/1980mssavagewind:  1d:58/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:426/22mssavagewind:  1b:489/4mssavagewind:  1c:472/1967mssavagewind:  1d:80/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:168/6mssavagewind:  1b:630/5mssavagewind:  1c:354/1943mssavagewind:  1d:355/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:122/117mssavagewind:  1b:2/0mssavagewind:  1c:117/1845mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:6/0mssavagewind:  1c:118/1999mssavagewind:  1d:6/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1662/9mssavagewind:  18:118/0mssavagewind:  1a:1832/304mssavagewind:  1b:8452/50mssavagewind:  1c:514/68mssavagewind:  1d:6839/19mssavagewind:  21:235/1mssavagewind:  34:1317/148mssavagewind:  35:283/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:167/6mssavagewind:  1b:642/6mssavagewind:  1c:471/1958mssavagewind:  1d:353/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:290/8mssavagewind:  1b:402/3mssavagewind:  1c:472/1893mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:12/0mssavagewind:  1a:264/9mssavagewind:  1b:386/3mssavagewind:  1c:30/1718mssavagewind:  1d:148/0mssavagewind:  34:111/3mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:23/0mssavagewind:  1a:181/7mssavagewind:  1b:176/1mssavagewind:  1c:33/1740mssavagewind:  1d:27/0mssavagewind:  34:20/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1684/9mssavagewind:  1a:892/21mssavagewind:  1b:1055/8mssavagewind:  1c:1886/741mssavagewind:  1d:118/0mssavagewind:  34:778/95mssavagewind:  35:1214/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1466/8mssavagewind:  1a:886/21mssavagewind:  1b:800/6mssavagewind:  1c:1768/806mssavagewind:  1d:9/0mssavagewind:  34:843/105mssavagewind:  35:926/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:781/567mssavagewind:  1a:133/3mssavagewind:  1b:482/2mssavagewind:  1c:24/4701mssavagewind:  1d:385/0mssavagewind:  21:1/0mssavagewind:  34:375/12mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:563/12mssavagewind:  1b:669/5mssavagewind:  1c:726/1962mssavagewind:  1d:148/0mssavagewind:  35:497/3mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:398/2mssavagewind:  1a:228/5mssavagewind:  1b:367/3mssavagewind:  1c:149/1970mssavagewind:  1d:46/0mssavagewind:  35:3/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:32/0mssavagewind:  1a:21/0mssavagewind:  1b:27/0mssavagewind:  1c:157/1980mssavagewind:  35:6/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4483.9 frame 9980 58.9 fps max 19ms internal=2560x1440 (609402 draws, 0 skipped, 23590 passes, 4334 dispatches, 833 flushes, wait 0ms, compile 0 (warm 15), fbcopy 0 (+62758 live), upload 178.0MB, sets 1224672 (1111463 shared), fbloop 29190 (28954 barriers), gmem waits 0 holds 0, uub 55442 (12180 same), gcopy 3023353 hit 430263 miss (143.8 MB), build waits 1) | frame 17.0 ms (max 18.8), 97.5% on time, 0 hitches; cpu ms/frame: render 14.0 (max 17.1), guest 58.0 (max 940.2): 101 12.4 (max 16.3) 14b 10.3 (max 65.3) 120 9.6 (max 11.2) 121 8.9 (max 10.2); gpu ms/frame 7.3 (max 7.8, 118 frames)
+savagewind: [fs] open fds: 37 (periodic; scanned 12555)
+savagewind: [fs] fd types: regular 15 directory 0 socket 4 other 18
+savagewind: [fs] fd limit at census: soft 12555 hard 12555
+savagewind: [svcprof] t0savagewind: [svcprof] t0savagewind:  1a:46/4mssavagewind:  1a:46/4mssavagewind:  1b:224/1mssavagewind:  1b:224/1mssavagewind:
+savagewind:
+savagewind: [svcprof] t1savagewind: [svcprof] t1savagewind:  0b:143383/771mssavagewind:  0b:143383/771mssavagewind:  1a:7/1mssavagewind:  1a:7/1mssavagewind:  1b:212/1mssavagewind:  1b:212/1mssavagewind:  1c:55/724mssavagewind:  1c:55/724mssavagewind:  1d:207/0mssavagewind:  1d:207/0mssavagewind:  34:2/5mssavagewind:  34:2/5mssavagewind:
+savagewind: [svcprof] t3savagewind:
+savagewind:  0b:8244/456mssavagewind: [svcprof] t3savagewind:  0b:8244/456mssavagewind:  1a:305/69mssavagewind:  1a:305/69mssavagewind:  1b:544/4mssavagewind:  1c:273/3353mssavagewind:  1b:544/4mssavagewind:  1d:400/1mssavagewind:  1d:400/1mssavagewind:
+savagewind: [svcprof] t4savagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/546mssavagewind:  0b:98891/546mssavagewind:  1a:1/0mssavagewind:  1a:1/0mssavagewind:  1b:81/1mssavagewind:  1b:81/1mssavagewind:  1c:401/3056mssavagewind:  1c:401/3056mssavagewind:
+savagewind:
+savagewind: [svcprof] t6savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:
+savagewind:  1a:347/12mssavagewind: [svcprof] t7savagewind:  1a:347/12mssavagewind:  1b:312/2mssavagewind:  1b:312/2mssavagewind:  1c:473/1982mssavagewind:  1c:473/1982mssavagewind:  1d:69/0mssavagewind:  1d:69/0mssavagewind:
+savagewind: [svcprof] t8savagewind:
+savagewind:  1a:343/21mssavagewind: [svcprof] t8savagewind:  1b:404/3mssavagewind:  1a:0/0mssavagewind:  1c:471/1970mssavagewind:  1c:471/1970mssavagewind:  1d:65/0mssavagewind:  1d:65/0mssavagewind:
+savagewind: [svcprof] t9savagewind:
+savagewind: [svcprof] t9savagewind:  1a:158/6mssavagewind:  1a:158/6mssavagewind:  1b:603/5mssavagewind:  1b:603/5mssavagewind:  1c:355/1949mssavagewind:  1c:355/1949mssavagewind:  1d:355/1mssavagewind:  1d:355/1mssavagewind:
+savagewind:
+savagewind: [svcprof] t10savagewind: [svcprof] t10savagewind:  1a:434/15mssavagewind:  1a:434/15mssavagewind:  1b:378/2mssavagewind:  1b:378/2mssavagewind:  1c:471/1977mssavagewind:  1c:471/1977mssavagewind:  1d:75/0mssavagewind:  1d:75/0mssavagewind:
+savagewind: [svcprof] t11savagewind:
+savagewind:  1a:506/25mssavagewind: [svcprof] t11savagewind:  1a:506/25mssavagewind:  1b:532/5mssavagewind:  1b:532/5mssavagewind:  1c:472/1961mssavagewind:  1c:472/1961mssavagewind:  1d:61/0mssavagewind:  1d:61/0mssavagewind:
+savagewind: [svcprof] t12savagewind:
+savagewind: [svcprof] t12savagewind:  1a:204/8mssavagewind:  1a:204/8mssavagewind:  1b:639/5mssavagewind:  1b:639/5mssavagewind:  1c:355/1939mssavagewind:  1c:355/1939mssavagewind:  1d:355/1mssavagewind:  1d:355/1mssavagewind:
+savagewind: [svcprof] t13savagewind:
+savagewind: [svcprof] t13savagewind:  1a:122/126mssavagewind:  1a:122/126mssavagewind:  1b:2/0mssavagewind:  1b:2/0mssavagewind:  1c:118/1852mssavagewind:  1c:118/1852mssavagewind:
+savagewind: [svcprof] t15savagewind:
+savagewind:  1b:1/0mssavagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:118/1999mssavagewind:  1c:118/1999mssavagewind:  1d:1/0mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:
+savagewind:  0b:1707/9mssavagewind: [svcprof] t16savagewind:  0b:1707/9mssavagewind:  18:117/0mssavagewind:  18:117/0mssavagewind:  1a:1833/236mssavagewind:  1a:1833/236mssavagewind:  1b:8594/54mssavagewind:  1b:8594/54mssavagewind:  1c:512/5119mssavagewind:  1d:6907/21mssavagewind:  1d:6907/21mssavagewind:  21:238/1mssavagewind:  21:238/1mssavagewind:  34:1397/137mssavagewind:  34:1397/137mssavagewind:  35:326/3mssavagewind:  35:326/3mssavagewind:
+savagewind: [svcprof] t17savagewind:
+savagewind: [svcprof] t17savagewind:  1a:2/1mssavagewind:  1a:2/1mssavagewind:  1b:2/0mssavagewind:  1b:2/0mssavagewind:  1c:4/13865mssavagewind:  1c:4/13865mssavagewind:  21:31/58mssavagewind:  21:31/58mssavagewind:
+savagewind:
+savagewind: [svcprof] t18savagewind: [svcprof] t18savagewind:  1a:160/5mssavagewind:  1a:160/5mssavagewind:  1b:594/5mssavagewind:  1b:594/5mssavagewind:  1c:470/2053mssavagewind:  1c:470/2053mssavagewind:  1d:351/1mssavagewind:  1d:351/1mssavagewind:
+savagewind: [svcprof] t19savagewind:
+savagewind:  17:118/0mssavagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:273/7mssavagewind:  1a:273/7mssavagewind:  1b:393/3mssavagewind:  1b:393/3mssavagewind:  1c:470/1881mssavagewind:  1c:470/1881mssavagewind:
+savagewind:
+savagewind: [svcprof] t21savagewind: [svcprof] t21savagewind:  0b:19/0mssavagewind:  0b:19/0mssavagewind:  1a:239/13mssavagewind:  1a:239/13mssavagewind:  1b:262/2mssavagewind:  1b:262/2mssavagewind:  1c:13/2142mssavagewind:  1c:13/2142mssavagewind:  1d:40/0mssavagewind:  1d:40/0mssavagewind:  34:17/1mssavagewind:  34:17/1mssavagewind:
+savagewind: [svcprof] t22savagewind:
+savagewind: [svcprof] t22savagewind:  0b:14/0mssavagewind:  0b:14/0mssavagewind:  1a:225/11mssavagewind:  1a:225/11mssavagewind:  1b:257/2mssavagewind:  1b:257/2mssavagewind:  1c:12/2145mssavagewind:  1c:12/2145mssavagewind:  1d:52/0mssavagewind:  1d:52/0mssavagewind:  34:46/9mssavagewind:  34:46/9mssavagewind:
+savagewind: [svcprof] t23savagewind:
+savagewind: [svcprof] t23savagewind:  0b:1603/9mssavagewind:  0b:1603/9mssavagewind:  1a:924/24mssavagewind:  1a:924/24mssavagewind:  1b:1008/8mssavagewind:  1b:1008/8mssavagewind:  1c:1887/723mssavagewind:  1c:1887/723mssavagewind:  1d:73/0mssavagewind:  1d:73/0mssavagewind:  34:791/97mssavagewind:  34:791/97mssavagewind:  35:1204/11mssavagewind:  35:1204/11mssavagewind:
+savagewind: [svcprof] t24savagewind:
+savagewind: [svcprof] t24savagewind:  0b:1514/8mssavagewind:  0b:1514/8mssavagewind:  1a:973/24mssavagewind:  1a:973/24mssavagewind:  1b:920/7mssavagewind:  1b:920/7mssavagewind:  1c:1770/783mssavagewind:  1c:1770/783mssavagewind:  1d:10/0mssavagewind:  1d:10/0mssavagewind:  34:862/112mssavagewind:  34:862/112mssavagewind:  35:930/7mssavagewind:  35:930/7mssavagewind:
+savagewind:
+savagewind: [svcprof] t27savagewind: [svcprof] t27savagewind:  0b:1420/572mssavagewind:  0b:1420/572mssavagewind:  1a:272/7mssavagewind:  1a:272/7mssavagewind:  1b:1169/7mssavagewind:  1b:1169/7mssavagewind:  1c:63/2801mssavagewind:  1c:63/2801mssavagewind:  1d:964/3mssavagewind:  1d:964/3mssavagewind:  21:42/29mssavagewind:  21:42/29mssavagewind:  34:959/117mssavagewind:  34:959/117mssavagewind:  35:40/0mssavagewind:  35:40/0mssavagewind:
+savagewind:
+savagewind: [svcprof] t28savagewind: [svcprof] t28savagewind:  1a:831/22mssavagewind:  1a:831/22mssavagewind:  1b:1063/9mssavagewind:  1b:1063/9mssavagewind:  1c:1250/1915mssavagewind:  1c:1250/1915mssavagewind:  1d:318/1mssavagewind:  1d:318/1mssavagewind:  35:903/6mssavagewind:  35:903/0mssavagewind:
+savagewind: [svcprof] t29savagewind:
+savagewind:  0b:652/4mssavagewind: [svcprof] t29savagewind:  1a:372/10mssavagewind:  0b:652/4mssavagewind:  1b:659/6mssavagewind:  1b:659/6mssavagewind:  1c:367/1933mssavagewind:  1c:367/1933mssavagewind:  1d:160/0mssavagewind:  1d:160/0mssavagewind:  21:35/19mssavagewind:  21:35/19mssavagewind:  35:77/0mssavagewind:  35:77/0mssavagewind:
+savagewind: [svcprof] t30savagewind:
+savagewind:  0b:58/0mssavagewind: [svcprof] t30savagewind:  0b:0/0mssavagewind:  1a:48/2mssavagewind:  1a:48/2mssavagewind:  1b:56/1mssavagewind:  1b:56/1mssavagewind:  1c:203/1993mssavagewind:  1c:203/1993mssavagewind:  35:75/0mssavagewind:  35:75/0mssavagewind:
+savagewind:
+savagewind: [svcprof] t31savagewind: [svcprof] t31savagewind:  1c:117/1983mssavagewind:  1c:117/1983mssavagewind:
+savagewind:
+savagewind: [vk] t=4485.9 frame 10098 59.0 fps max 19ms internal=2560x1440 (611229 draws, 0 skipped, 24065 passes, 4600 dispatches, 873 flushes, wait 0ms, compile 0 (warm 10), fbcopy 0 (+64571 live), upload 204.9MB, sets 1228592 (1106490 shared), fbloop 28371 (28135 barriers), gmem waits 0 holds 0, uub 59283 (13190 same), gcopy 2939170 hit 427936 miss (149.6 MB)) | frame 17.0 ms (max 18.7), 88.1% on time, 0 hitches; cpu ms/frame: render 14.3 (max 17.4), guest 59.4 (max 963.9): 101 12.6 (max 14.5) 14b 10.1 (max 39.0) 120 9.6 (max 11.7) 121 9.0 (max 10.4); gpu ms/frame 7.4 (max 8.1, 118 frames)
+savagewind: [svcprof] t0savagewind:  1a:47/4mssavagewind:  1b:223/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:148597/790mssavagewind:  1a:5/0mssavagewind:  1b:188/1mssavagewind:  1c:57/760mssavagewind:  1d:186/0mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:7312/689mssavagewind:  1a:295/70mssavagewind:  1b:529/3mssavagewind:  1c:258/3116mssavagewind:  1d:400/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/534mssavagewind:  1b:72/1mssavagewind:  1c:401/3021mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:538/15mssavagewind:  1b:459/2mssavagewind:  1c:457/1967mssavagewind:  1d:96/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:436/20mssavagewind:  1b:626/4mssavagewind:  1c:458/1954mssavagewind:  1d:128/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:352/11mssavagewind:  1b:554/4mssavagewind:  1c:413/1949mssavagewind:  1d:202/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:476/17mssavagewind:  1b:416/3mssavagewind:  1c:477/1974mssavagewind:  1d:64/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:476/25mssavagewind:  1b:568/4mssavagewind:  1c:467/1960mssavagewind:  1d:93/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:231/9mssavagewind:  1b:648/5mssavagewind:  1c:367/1938mssavagewind:  1d:332/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:136/124mssavagewind:  1b:8/0mssavagewind:  1c:118/1844mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:3/0mssavagewind:  1c:118/2000mssavagewind:  1d:3/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1588/8mssavagewind:  18:118/0mssavagewind:  1a:1913/168mssavagewind:  1b:8729/50mssavagewind:  1c:507/2100mssavagewind:  1d:6898/18mssavagewind:  21:236/1mssavagewind:  34:1294/120mssavagewind:  35:320/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:145/5mssavagewind:  1b:554/5mssavagewind:  1c:471/2367mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:257/7mssavagewind:  1b:382/3mssavagewind:  1c:472/1891mssavagewind:  1d:2/0mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:1/0mssavagewind:  1a:134/8mssavagewind:  1b:147/1mssavagewind:  1c:9/1503mssavagewind:  1d:31/0mssavagewind:  34:23/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:3/0mssavagewind:  1a:103/3mssavagewind:  1b:112/1mssavagewind:  1c:10/1504mssavagewind:  1d:9/0mssavagewind:  34:9/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1617/8mssavagewind:  1a:852/22mssavagewind:  1b:969/7mssavagewind:  1c:1887/740mssavagewind:  1d:74/0mssavagewind:  34:774/93mssavagewind:  35:1196/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1608/8mssavagewind:  1a:952/22mssavagewind:  1b:902/7mssavagewind:  1c:1769/790mssavagewind:  1d:14/0mssavagewind:  34:889/103mssavagewind:  35:915/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:709/435mssavagewind:  1a:141/8mssavagewind:  1b:465/3mssavagewind:  1c:24/3466mssavagewind:  1d:351/0mssavagewind:  21:2/9mssavagewind:  34:344/8mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:392/11mssavagewind:  1b:412/4mssavagewind:  1c:520/1971mssavagewind:  1d:91/0mssavagewind:  35:372/2mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:321/1mssavagewind:  1a:159/4mssavagewind:  1b:249/2mssavagewind:  1c:92/1878mssavagewind:  1d:12/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:12/0mssavagewind:  1a:12/0mssavagewind:  1b:17/0mssavagewind:  1c:151/1998mssavagewind:  35:24/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4487.9 frame 10216 58.9 fps max 21ms internal=2560x1440 (617170 draws, 0 skipped, 23781 passes, 4579 dispatches, 878 flushes, wait 0ms, compile 0 (warm 0), fbcopy 0 (+67941 live), upload 189.6MB, sets 1240453 (1121787 shared), fbloop 31682 (31446 barriers), gmem waits 0 holds 0, uub 55085 (12148 same), gcopy 2985444 hit 418937 miss (145.1 MB)) | frame 17.0 ms (max 20.1), 84.7% on time, 0 hitches; cpu ms/frame: render 14.3 (max 17.3), guest 58.7 (max 973.0): 101 12.8 (max 14.3) 14b 10.2 (max 48.0) 120 9.6 (max 10.9) 121 9.1 (max 10.5); gpu ms/frame 7.6 (max 8.3, 118 frames)
+savagewind: radv/ps5 submissions: window count=4198 kwords=122643 claim_ms=9.9 copy_ms=47.2 flush_ms=15.6 agc_ms=524.5 suspend_ms=1763.4
+savagewind: [svcprof] t0savagewind:  1a:45/4mssavagewind:  1b:220/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:145937/782mssavagewind:  1a:10/0mssavagewind:  1b:196/1mssavagewind:  1c:56/768mssavagewind:  1d:185/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1b:1/0mssavagewind:  1c:6/5783mssavagewind:  21:1/3mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:8041/502mssavagewind:  1a:315/69mssavagewind:  1b:537/4mssavagewind:  1c:270/3310mssavagewind:  1d:399/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/533mssavagewind:  1b:95/1mssavagewind:  1c:400/3050mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:642/19mssavagewind:  1b:592/4mssavagewind:  1c:430/1946mssavagewind:  1d:148/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:460/25mssavagewind:  1b:738/6mssavagewind:  1c:446/1937mssavagewind:  1d:151/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:428/15mssavagewind:  1b:519/5mssavagewind:  1c:442/1945mssavagewind:  1d:108/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:407/14mssavagewind:  1b:358/2mssavagewind:  1c:481/1979mssavagewind:  1d:75/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:402/22mssavagewind:  1b:479/4mssavagewind:  1c:478/1966mssavagewind:  1d:69/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:163/6mssavagewind:  1b:629/5mssavagewind:  1c:360/1941mssavagewind:  1d:358/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:125/124mssavagewind:  1b:17/0mssavagewind:  1c:118/1838mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:118/2000mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1571/9mssavagewind:  18:118/0mssavagewind:  1a:1975/271mssavagewind:  1b:8669/53mssavagewind:  1c:497/2114mssavagewind:  1d:6871/18mssavagewind:  21:236/1mssavagewind:  34:1321/124mssavagewind:  35:312/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:192/8mssavagewind:  1b:638/6mssavagewind:  1c:470/1962mssavagewind:  1d:351/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:289/10mssavagewind:  1b:418/4mssavagewind:  1c:472/1891mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:19/0mssavagewind:  1a:207/13mssavagewind:  1b:455/3mssavagewind:  1c:7/2105mssavagewind:  1d:298/1mssavagewind:  34:325/32mssavagewind:  35:4/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:13/0mssavagewind:  1a:182/15mssavagewind:  1b:388/2mssavagewind:  1c:7/2112mssavagewind:  1d:262/0mssavagewind:  34:297/52mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1650/9mssavagewind:  1a:933/25mssavagewind:  1b:1026/8mssavagewind:  1c:1886/714mssavagewind:  1d:63/0mssavagewind:  34:750/84mssavagewind:  35:1222/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1587/9mssavagewind:  1a:1036/26mssavagewind:  1b:952/8mssavagewind:  1c:1769/762mssavagewind:  1d:10/0mssavagewind:  34:886/103mssavagewind:  35:918/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:674/467mssavagewind:  1a:117/2mssavagewind:  1b:420/2mssavagewind:  1c:35/2704mssavagewind:  1d:331/0mssavagewind:  21:15/21mssavagewind:  34:315/8mssavagewind:  35:15/0mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:391/10mssavagewind:  1b:517/5mssavagewind:  1c:971/1966mssavagewind:  1d:115/0mssavagewind:  35:855/5mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:305/1mssavagewind:  1a:157/4mssavagewind:  1b:287/2mssavagewind:  1c:167/1916mssavagewind:  1d:54/0mssavagewind:  35:38/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:8/0mssavagewind:  1a:8/0mssavagewind:  1b:9/0mssavagewind:  1c:143/1998mssavagewind:  35:23/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4489.9 frame 10334 58.9 fps max 19ms internal=2560x1440 (590361 draws, 0 skipped, 23061 passes, 3405 dispatches, 795 flushes, wait 0ms, compile 0 (warm 0), fbcopy 0 (+65643 live), upload 174.9MB, sets 1185661 (1074780 shared), fbloop 30969 (30733 barriers), gmem waits 0 holds 0, uub 53641 (11263 same), gcopy 2824183 hit 398067 miss (138.1 MB)) | frame 17.0 ms (max 19.5), 96.6% on time, 0 hitches; cpu ms/frame: render 13.7 (max 16.0), guest 59.4 (max 945.5): 101 12.9 (max 16.6) 14b 10.0 (max 69.4) 120 9.8 (max 12.8) 121 9.2 (max 13.6); gpu ms/frame 7.1 (max 7.9, 118 frames)
+savagewind: [event] Demo002_0
+savagewind: [input] wheel zoom: off
+savagewind: [svcprof] t0savagewind:  1a:44/3mssavagewind:  1b:222/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:148755/777mssavagewind:  1a:8/0mssavagewind:  1b:205/1mssavagewind:  1c:57/773mssavagewind:  1d:203/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1c:10/2099mssavagewind:  21:1/2mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:6443/540mssavagewind:  1a:294/62mssavagewind:  1b:534/3mssavagewind:  1c:268/3285mssavagewind:  1d:400/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/528mssavagewind:  1b:72/1mssavagewind:  1c:401/3065mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:638/20mssavagewind:  1b:563/3mssavagewind:  1c:445/1951mssavagewind:  1d:128/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:500/26mssavagewind:  1b:718/6mssavagewind:  1c:442/1939mssavagewind:  1d:162/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:430/15mssavagewind:  1b:551/5mssavagewind:  1c:444/1946mssavagewind:  1d:110/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:408/14mssavagewind:  1b:347/2mssavagewind:  1c:484/1979mssavagewind:  1d:66/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:404/21mssavagewind:  1b:489/4mssavagewind:  1c:479/1968mssavagewind:  1d:85/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:170/6mssavagewind:  1b:641/5mssavagewind:  1c:357/1944mssavagewind:  1d:361/1mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:154/130mssavagewind:  1b:21/0mssavagewind:  1c:118/1842mssavagewind:
+savagewind: [svcprof] t15savagewind:  1c:118/1999mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1672/9mssavagewind:  18:118/0mssavagewind:  1a:2290/390mssavagewind:  1b:8972/52mssavagewind:  1c:513/2051mssavagewind:  1d:6824/17mssavagewind:  21:184/1mssavagewind:  34:1419/168mssavagewind:  35:303/3mssavagewind:
+savagewind: [svcprof] t18savagewind:  1a:107/4mssavagewind:  1b:570/5mssavagewind:  1c:418/1991mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:219/6mssavagewind:  1b:342/2mssavagewind:  1c:420/1917mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:2/0mssavagewind:  1a:21/0mssavagewind:  1b:22/0mssavagewind:  1c:6/1440mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:3/0mssavagewind:  1a:18/0mssavagewind:  1b:13/0mssavagewind:  1c:6/1442mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1711/9mssavagewind:  1a:989/25mssavagewind:  1b:1069/7mssavagewind:  1c:1888/803mssavagewind:  1d:67/0mssavagewind:  34:750/67mssavagewind:  35:1294/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1448/8mssavagewind:  1a:1021/27mssavagewind:  1b:929/6mssavagewind:  1c:1770/909mssavagewind:  1d:5/0mssavagewind:  34:908/84mssavagewind:  35:893/6mssavagewind:
+savagewind: [svcprof] t27savagewind:  0b:480/268mssavagewind:  1a:90/2mssavagewind:  1b:312/2mssavagewind:  1c:12/3688mssavagewind:  1d:237/0mssavagewind:  21:1/1mssavagewind:  34:229/6mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:218/5mssavagewind:  1b:223/2mssavagewind:  1c:378/1977mssavagewind:  1d:45/0mssavagewind:  35:229/1mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:201/1mssavagewind:  1a:91/2mssavagewind:  1b:141/1mssavagewind:  1c:46/1324mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  0b:1/0mssavagewind:  1b:1/0mssavagewind:  1c:147/1999mssavagewind:  35:30/0mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4491.9 frame 10452 58.9 fps max 19ms internal=2560x1440 (556559 draws, 0 skipped, 21305 passes, 2921 dispatches, 755 flushes, wait 0ms, compile 0 (warm 9), fbcopy 0 (+62302 live), upload 159.7MB, sets 1117573 (1015939 shared), fbloop 30473 (30237 barriers), gmem waits 0 holds 0, uub 51117 (10742 same), gcopy 2695182 hit 371851 miss (127.4 MB)) | frame 17.0 ms (max 18.5), 99.2% on time, 0 hitches; cpu ms/frame: render 12.9 (max 15.4), guest 53.6 (max 945.5): 101 11.5 (max 15.5) 14b 10.0 (max 55.3) 120 9.1 (max 11.9) 121 8.0 (max 10.2); gpu ms/frame 6.8 (max 7.3, 117 frames)
+savagewind: [input] mouse free
+savagewind: [hitch] frame 10491: 26.6 ms in menu, cause: command translation (render thread, 14.3 ms) | render thread cpu 15.1 ms: compiles 0.0 ms (0), pipelines 0.0 ms (0), build waits 0.0, textures 0.8 ms (0.0 MB), GPU waits 0.0, present 0.2 (acquire 0.0), uploads 1.0 MB | present thread 118: cpu 0.1 wait 12.3 core 0.0 sleep 4.7 backend 0.0 read 0.0 | threads: 101 (prio 44) cpu 19.1 wait 3.1 core 0.0; 124 (prio 47) cpu 0.0 wait 0.0 core 0.0 read 14.8 (17, 0.5 MB); 120 (prio 44) cpu 10.8 wait 20.8 core 0.0; 146 (prio 48) cpu 10.3 wait 66.7 core 0.0
+savagewind: [vram] t=4492.61 new block: 256 MB of memory type 0 (heap 1) in 0.0 ms on a game thread
+savagewind: [audren-sdk] 36000 frames: render 498 us (max 872), mutex wait max 211 us, 0 underruns, peak 0.163; 2000 with the sink, voice sources 22 (max 34), command ids 0x4218adc0, gain 1.00
+savagewind: [audio] AudioOut 10.0 s: 1876 periods, 0 underruns (0 frames short), 0 errors (last 0), 0 frames dropped, 1 streams (1 resumed, lowest gain 1.00), queue peak 2512 frames; in 2001 puts, 480240 frames, peak -15.8 dBFS; ring read peak -15.8 dBFS; level peak -15.8 dBFS rms -37.5 dBFS
+savagewind: [perf] last 60 s: 3532 frames, 95.3% on time, frame ms p50 17.00 p95 18.00 p99 19.00, 1 hitches; per frame: render thread cpu 13.29 ms, guest threads cpu 59.11 ms, gpu 6.94 ms
+savagewind: [svcprof] t0savagewind:  1a:37/2mssavagewind:  1b:219/1mssavagewind:
+savagewind: [svcprof] t1savagewind:  0b:154004/753mssavagewind:  1b:184/1mssavagewind:  1c:58/867mssavagewind:  1d:184/0mssavagewind:
+savagewind: [svcprof] t2savagewind:  1b:2/0mssavagewind:  1c:12/2083mssavagewind:
+savagewind: [svcprof] t3savagewind:  0b:2626/1456mssavagewind:  1a:288/48mssavagewind:  1b:470/2mssavagewind:  1c:215/2422mssavagewind:  1d:401/1mssavagewind:
+savagewind: [svcprof] t4savagewind:  0b:98891/492mssavagewind:  1b:69/0mssavagewind:  1c:402/3067mssavagewind:
+savagewind: [svcprof] t5savagewind:  1a:1/0mssavagewind:  1b:2/0mssavagewind:  1c:1/103555mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t6savagewind:  0b:20/2002mssavagewind:  21:20/0mssavagewind:
+savagewind: [svcprof] t7savagewind:  1a:163/5mssavagewind:  1b:146/0mssavagewind:  1c:188/788mssavagewind:  1d:30/0mssavagewind:
+savagewind: [svcprof] t8savagewind:  1a:107/6mssavagewind:  1b:264/1mssavagewind:  1c:159/778mssavagewind:  1d:122/0mssavagewind:
+savagewind: [svcprof] t9savagewind:  1a:150/6mssavagewind:  1b:138/1mssavagewind:  1c:186/781mssavagewind:  1d:14/0mssavagewind:
+savagewind: [svcprof] t10savagewind:  1a:158/4mssavagewind:  1b:116/0mssavagewind:  1c:190/790mssavagewind:  1d:25/0mssavagewind:
+savagewind: [svcprof] t11savagewind:  1a:135/7mssavagewind:  1b:168/1mssavagewind:  1c:189/786mssavagewind:  1d:26/0mssavagewind:
+savagewind: [svcprof] t12savagewind:  1a:51/1mssavagewind:  1b:241/2mssavagewind:  1c:141/778mssavagewind:  1d:146/0mssavagewind:
+savagewind: [svcprof] t13savagewind:  1a:108/50mssavagewind:  1b:23/0mssavagewind:  1c:118/1922mssavagewind:
+savagewind: [svcprof] t15savagewind:  1b:1/0mssavagewind:  1c:118/1998mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t16savagewind:  0b:1189/6mssavagewind:  18:118/0mssavagewind:  1a:1543/609mssavagewind:  1b:6730/35mssavagewind:  1c:204/24mssavagewind:  1d:5398/12mssavagewind:  21:118/0mssavagewind:  34:1429/235mssavagewind:  35:278/3mssavagewind:
+savagewind: [svcprof] t17savagewind:  1a:1/0mssavagewind:  1c:1/8176mssavagewind:
+savagewind: [svcprof] t18savagewind:  1b:468/3mssavagewind:  1c:283/2054mssavagewind:  1d:354/1mssavagewind:
+savagewind: [svcprof] t19savagewind:  17:118/0mssavagewind:  1a:118/2mssavagewind:  1b:236/1mssavagewind:  1c:354/1956mssavagewind:
+savagewind: [svcprof] t20savagewind:  1a:1/0mssavagewind:  1b:1/0mssavagewind:  1c:1/103555mssavagewind:  21:2/0mssavagewind:
+savagewind: [svcprof] t21savagewind:  0b:6/0mssavagewind:  1a:53/2mssavagewind:  1b:84/0mssavagewind:  1c:5/1802mssavagewind:  1d:19/0mssavagewind:  34:14/0mssavagewind:
+savagewind: [svcprof] t22savagewind:  0b:6/0mssavagewind:  1a:59/2mssavagewind:  1b:53/0mssavagewind:  1c:5/1802mssavagewind:  1d:10/0mssavagewind:  34:12/0mssavagewind:
+savagewind: [svcprof] t23savagewind:  0b:1208/6mssavagewind:  1a:811/21mssavagewind:  1b:872/5mssavagewind:  1c:1888/1107mssavagewind:  1d:64/0mssavagewind:  34:685/158mssavagewind:  35:1365/11mssavagewind:
+savagewind: [svcprof] t24savagewind:  0b:1183/6mssavagewind:  1a:858/21mssavagewind:  1b:815/4mssavagewind:  1c:1770/1188mssavagewind:  1d:3/0mssavagewind:  34:1011/102mssavagewind:  35:813/7mssavagewind:
+savagewind: [svcprof] t27savagewind:  1b:45/0mssavagewind:  1c:1/1663mssavagewind:  1d:45/0mssavagewind:  21:45/27mssavagewind:
+savagewind: [svcprof] t28savagewind:  1a:37/0mssavagewind:  1b:47/0mssavagewind:  1c:184/1997mssavagewind:  1d:4/0mssavagewind:  35:27/0mssavagewind:
+savagewind: [svcprof] t29savagewind:  0b:42/0mssavagewind:  1a:3/0mssavagewind:  1b:7/0mssavagewind:  1c:49/1712mssavagewind:  1d:1/0mssavagewind:
+savagewind: [svcprof] t30savagewind:  1c:118/2000mssavagewind:
+savagewind: [svcprof] t31savagewind:  1c:118/2000mssavagewind:
+savagewind: [vk] t=4493.9 frame 10570 58.9 fps max 27ms internal=2560x1440 (341526 draws, 0 skipped, 13987 passes, 856 dispatches, 565 flushes, wait 0ms, compile 0 (warm 43), fbcopy 0 (+21748 live), upload 428.3MB, sets 684571 (610549 shared), fbloop 10374 (10296 barriers), gmem waits 0 holds 0, uub 24286 (7625 same), gcopy 1209473 hit 335591 miss (131.3 MB)) | frame 17.0 ms (max 26.6), 98.3% on time, 1 hitches; cpu ms/frame: render 8.1 (max 15.8), guest 41.5 (max 870.6): 14b 9.3 (max 66.9) 101 9.2 (max 19.1) 14e 7.0 (max 827.9) 120 5.6 (max 10.8); gpu ms/frame 4.1 (max 7.1, 115 frames)
